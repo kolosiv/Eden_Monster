@@ -1,8 +1,9 @@
 # Eden Analytics Pro Configuration
 # Hockey Arbitrage Betting System
-# Version 3.0.0 Monster Edition - ML Model v5.0 + Injury Tracking
+# Version 3.0.1 Monster Edition - Critical Fixes Applied
+# ML Model v5.1 + Real Data Training + Improved Reliability
 
-version: "3.0.0"
+version: "3.0.1"
 
 # Demo Mode - Set to true to use mock data (no API key needed)
 demo_mode: true

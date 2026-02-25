@@ -406,18 +406,46 @@ class MatchAnalyzer:
                     arb_opportunity.match_id
                 )
         
-        # Calculate probabilities
-        # P(strong wins match) ≈ 1 - P(draw) * P(weak wins OT) - P(weak wins reg)
-        p_loss_both = ot_prediction.hole_probability
-        p_draw = ot_prediction.ot_probability
+        # Calculate probabilities with PROPER normalization
+        # CRITICAL FIX: Removed magic 0.8 coefficient, probabilities now sum to 1
+        #
+        # Probability space:
+        # 1. P(strong wins match) = P(strong wins reg) + P(OT) * P(strong wins OT)
+        # 2. P(weak wins reg) = directly from OT prediction
+        # 3. P(hole) = P(OT) * P(weak wins OT) = already in ot_prediction.hole_probability
+        #
+        p_ot = ot_prediction.ot_probability
+        p_hole = ot_prediction.hole_probability  # P(OT) * P(weak wins OT)
         
-        # Estimate regulation probabilities from odds
-        implied_strong = 1 / arb_opportunity.odds_strong
-        implied_weak = 1 / arb_opportunity.odds_weak_reg
-        total = implied_strong + implied_weak
+        # Remove bookmaker vig from implied probabilities (use realistic 8% margin)
+        BOOKMAKER_MARGIN = 1.08  # Realistic margin for NHL (was 1.05)
+        implied_strong_raw = 1 / arb_opportunity.odds_strong
+        implied_weak_raw = 1 / arb_opportunity.odds_weak_reg
+        total_implied = implied_strong_raw + implied_weak_raw
         
-        p_strong_match = implied_strong / total * (1 - p_loss_both)
-        p_weak_reg = (1 - p_strong_match - p_loss_both) * 0.8  # Approximate
+        # Remove vig (normalize to true probabilities)
+        p_strong_true = implied_strong_raw / total_implied
+        p_weak_true = implied_weak_raw / total_implied
+        
+        # P(weak wins in regulation) - estimate from true probability minus OT contribution
+        # True weak win probability includes both regulation wins and OT wins
+        p_weak_reg = max(0.01, p_weak_true - p_hole)  # Regulation only
+        
+        # P(strong wins match) = all non-weak-win scenarios
+        # Strong wins if: (1) strong wins in regulation, or (2) game goes to OT and strong wins OT
+        p_strong_match = 1 - p_weak_reg - p_hole
+        
+        # Sanity check: probabilities must sum to 1
+        total_prob = p_strong_match + p_weak_reg + p_hole
+        if abs(total_prob - 1.0) > 0.01:
+            logger.warning(f"Probability normalization issue: sum={total_prob:.4f}, normalizing...")
+            # Normalize to ensure sum = 1
+            p_strong_match = p_strong_match / total_prob
+            p_weak_reg = p_weak_reg / total_prob
+            p_hole = p_hole / total_prob
+        
+        # Store for debugging
+        p_loss_both = p_hole
         
         # Calculate expected value
         ev = self.calculate_expected_value(

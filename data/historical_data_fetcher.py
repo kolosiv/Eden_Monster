@@ -233,9 +233,10 @@ class HistoricalDataFetcher:
                 ot_winner = None
             
             # Generate odds (based on win rates)
+            # FIXED: Updated to realistic bookmaker margin (8% instead of 5%)
             home_implied = home_win_rate + 0.02  # Home edge
             away_implied = 1 - home_implied
-            margin = 1.05  # 5% bookmaker margin
+            margin = 1.08  # FIXED: Realistic 8% bookmaker margin (was 5%)
             
             home_odds = margin / home_implied if home_implied > 0 else 2.0
             away_odds = margin / away_implied if away_implied > 0 else 2.0

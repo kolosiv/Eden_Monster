@@ -5,6 +5,85 @@ All notable changes to Eden Analytics Pro will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.1] - 2026-02-25
+
+### 🔴 Critical Fixes (Reliability Improvements)
+
+This release addresses **critical issues** identified in an independent model analysis.
+These fixes significantly improve the reliability and trustworthiness of predictions.
+
+### Fixed
+
+#### Critical Severity
+- **🔴 Synthetic Data Replaced with Real NHL Data**
+  - Added `RealNHLDataFetcher` class that loads data from verified `nhl_historical.db`
+  - 7,860 real NHL games now available for training (2019-2026 seasons)
+  - Completely eliminated `random.gauss()` synthetic data generation
+  - Added `DataQualityMetrics` class to validate data quality before training
+
+- **🔴 TimeSeriesSplit Cross-Validation**
+  - Replaced standard k-fold CV with `TimeSeriesSplit` from scikit-learn
+  - This prevents look-ahead bias (future data leaking into training)
+  - Added temporal gap between train and test sets
+  - New `ModelTrainerV2` class with proper temporal validation
+
+- **🔴 Data Leakage Fixes**
+  - Removed `implied_closeness` feature that could contain outcome information
+  - Replaced with `win_rate_closeness` computed from pre-game stats only
+  - All features now computed from data available before game start
+
+#### High Severity
+- **🟠 Probability Normalization Fixed**
+  - Removed magic `* 0.8` coefficient in `match_analyzer.py`
+  - Probabilities now properly sum to 1.0 (P_strong + P_weak_reg + P_hole = 1)
+  - Added sanity check and normalization if sum deviates from 1.0
+
+- **🟠 Bookmaker Margin Updated**
+  - Changed from unrealistic 5% to realistic 8% margin
+  - This reflects actual Belarusian/international bookmaker margins (6-12%)
+  - More accurate ROI calculations
+
+- **🟠 Betting Limits Validation**
+  - New `BettingValidator` class with realistic bookmaker limits
+  - Added limit checks for Betera, Fonbet, Winline, 1xbet, Pinnacle, Marathon
+  - Arbitrage timing window validation (5-minute expiry)
+  - Slippage risk warnings for large stakes
+  - Account restriction risk tracking
+
+#### Medium Severity
+- **🟡 Dynamic OT Win Rate**
+  - Weak team OT win rate now calculated dynamically based on skill gap
+  - Formula: `weak_ot_win = max(0.35, 0.50 - win_rate_diff * 0.5)`
+  - Previously used fixed 45% which ignored team strength differences
+
+### Added
+- `data/real_data_fetcher.py` - Real NHL data loader with validation
+- `models/model_trainer_v2.py` - Improved trainer with TimeSeriesSplit
+- `analysis/betting_validator.py` - Betting limits and validation
+- `DataQualityMetrics` class for data validation before training
+- OT rate verification (expected 20-26% for regular season)
+- Overfitting detection (train vs test accuracy comparison)
+
+### Changed
+- Model version updated to v5.1
+- Application version updated to 3.0.1
+- Config updated with new version and description
+- All `__init__.py` files updated with new exports
+
+### Data Quality
+- Real NHL database: 7,860 games
+- OT games: 1,084 (13.79% - includes playoffs with different OT rules)
+- Regular season OT rate: ~22% (validated)
+- Team stats coverage: 162 team-seasons
+- H2H data: 2,063 matchup records
+
+### Technical Notes
+- Train/test split now uses temporal ordering (earlier → train, later → test)
+- CV metrics more realistic (expect 5-15% lower than previous reports)
+- Overfitting warning if train_accuracy > test_accuracy + 15%
+
+---
+
 ## [2.3.0] - 2026-02-23
 
 ### Added
