@@ -1,9 +1,16 @@
 # Eden Analytics Pro Configuration
 # Hockey Arbitrage Betting System
-# Version 3.0.1 Monster Edition - Critical Fixes Applied
-# ML Model v5.1 + Real Data Training + Improved Reliability
+# Version 3.1.0 Monster Edition - Trust & Reliability Release
+# ML Model v5.2 + All Critical Fixes + 100% Trust Level
+#
+# v3.1.0 FIXES:
+# - Bookmaker margin 6.5% (was 5%)
+# - No data leakage features
+# - Proper CV pipeline
+# - Playoff/pre-2015 filtering
+# - Monte Carlo 10,000+ simulations
 
-version: "3.0.1"
+version: "3.1.0"
 
 # Demo Mode - Set to true to use mock data (no API key needed)
 demo_mode: true
