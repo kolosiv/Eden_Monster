@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-02-24T17:59:31.123859",
+  "accuracy": 0.8574577516531962,
+  "auc": 0.9014811137313309,
+  "optimal_threshold": 0.4400000000000002,
+  "feature_cols": [
+    "home_shots",
+    "away_shots",
+    "home_sv_pct",
+    "away_sv_pct",
+    "home_hits",
+    "away_hits",
+    "home_blocked",
+    "away_blocked",
+    "home_pim",
+    "away_pim",
+    "goal_diff",
+    "total_goals",
+    "shot_diff",
+    "total_shots",
+    "sv_pct_diff"
+  ],
+  "n_training_samples": 5443,
+  "n_test_samples": 1361,
+  "lstm_accuracy": 0.7612049963262307,
+  "lstm_auc": 0.8979976004302678,
+  "combined_accuracy": 0.8603967670830271,
+  "combined_auc": 0.9064871126556618,
+  "combined_weights": {
+    "ensemble": 0.7,
+    "lstm": 0.3
+  },
+  "combined_optimal_threshold": 0.5400000000000003,
+  "best_model": "combined",
+  "best_accuracy": 0.8603967670830271
+}

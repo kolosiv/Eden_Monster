@@ -1,0 +1,7652 @@
+[
+  {
+    "match_id": "hist_20250219_062",
+    "date": "2025-02-19",
+    "home_team": "Winnipeg Jets",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 1.600750701342426,
+    "away_h2h_odds": 2.748181470410546,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.52,
+        "away": 2.47
+      },
+      "FanDuel": {
+        "home": 1.6,
+        "away": 2.27
+      },
+      "BetMGM": {
+        "home": 1.45,
+        "away": 2.75
+      },
+      "Caesars": {
+        "home": 1.53,
+        "away": 2.45
+      },
+      "PointsBet": {
+        "home": 1.48,
+        "away": 2.57
+      },
+      "Barstool": {
+        "home": 1.49,
+        "away": 2.55
+      },
+      "WynnBET": {
+        "home": 1.54,
+        "away": 2.42
+      },
+      "BetRivers": {
+        "home": 1.46,
+        "away": 2.64
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.154794842494078,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250221_028",
+    "date": "2025-02-21",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.8513103597424643,
+    "away_h2h_odds": 2.0620488741586787,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.72,
+        "away": 2.06
+      },
+      "FanDuel": {
+        "home": 1.74,
+        "away": 2.03
+      },
+      "BetMGM": {
+        "home": 1.8,
+        "away": 1.96
+      },
+      "Caesars": {
+        "home": 1.85,
+        "away": 1.9
+      },
+      "PointsBet": {
+        "home": 1.84,
+        "away": 1.91
+      },
+      "Barstool": {
+        "home": 1.78,
+        "away": 1.98
+      },
+      "WynnBET": {
+        "home": 1.85,
+        "away": 1.9
+      },
+      "BetRivers": {
+        "home": 1.85,
+        "away": 1.9
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250221_115",
+    "date": "2025-02-21",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Carolina Hurricanes",
+    "home_h2h_odds": 2.3304784105451177,
+    "away_h2h_odds": 1.8625889558862594,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.33,
+        "away": 1.6
+      },
+      "FanDuel": {
+        "home": 2.05,
+        "away": 1.81
+      },
+      "BetMGM": {
+        "home": 2.04,
+        "away": 1.77
+      },
+      "Caesars": {
+        "home": 2.07,
+        "away": 1.75
+      },
+      "PointsBet": {
+        "home": 2.15,
+        "away": 1.7
+      },
+      "Barstool": {
+        "home": 2.09,
+        "away": 1.74
+      },
+      "WynnBET": {
+        "home": 2.18,
+        "away": 1.68
+      },
+      "BetRivers": {
+        "home": 2.02,
+        "away": 1.86
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 3.5214312119909996,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250221_146",
+    "date": "2025-02-21",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 2.958634898310024,
+    "away_h2h_odds": 1.5243338956171213,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.6,
+        "away": 1.52
+      },
+      "FanDuel": {
+        "home": 2.73,
+        "away": 1.45
+      },
+      "BetMGM": {
+        "home": 2.57,
+        "away": 1.5
+      },
+      "Caesars": {
+        "home": 2.53,
+        "away": 1.52
+      },
+      "PointsBet": {
+        "home": 2.96,
+        "away": 1.4
+      },
+      "Barstool": {
+        "home": 2.76,
+        "away": 1.44
+      },
+      "WynnBET": {
+        "home": 2.82,
+        "away": 1.43
+      },
+      "BetRivers": {
+        "home": 2.85,
+        "away": 1.42
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 0.6018035717555215,
+    "best_home_book": "PointsBet",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250223_044",
+    "date": "2025-02-23",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.4981270644158662,
+    "away_h2h_odds": 2.9351305463571356,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.5,
+        "away": 2.55
+      },
+      "FanDuel": {
+        "home": 1.48,
+        "away": 2.62
+      },
+      "BetMGM": {
+        "home": 1.47,
+        "away": 2.64
+      },
+      "Caesars": {
+        "home": 1.43,
+        "away": 2.76
+      },
+      "PointsBet": {
+        "home": 1.48,
+        "away": 2.6
+      },
+      "Barstool": {
+        "home": 1.45,
+        "away": 2.71
+      },
+      "WynnBET": {
+        "home": 1.43,
+        "away": 2.77
+      },
+      "BetRivers": {
+        "home": 1.42,
+        "away": 2.931016198264143
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250224_035",
+    "date": "2025-02-24",
+    "home_team": "Edmonton Oilers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.098426935614664,
+    "away_h2h_odds": 1.9236321170317774,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.06,
+        "away": 1.74
+      },
+      "FanDuel": {
+        "home": 1.99,
+        "away": 1.79
+      },
+      "BetMGM": {
+        "home": 1.99,
+        "away": 1.8
+      },
+      "Caesars": {
+        "home": 1.99,
+        "away": 1.8
+      },
+      "PointsBet": {
+        "home": 2.1,
+        "away": 1.75
+      },
+      "Barstool": {
+        "home": 1.98,
+        "away": 1.81
+      },
+      "WynnBET": {
+        "home": 2.0,
+        "away": 1.78
+      },
+      "BetRivers": {
+        "home": 1.93,
+        "away": 1.92
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.361565948091469,
+    "best_home_book": "PointsBet",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250225_038",
+    "date": "2025-02-25",
+    "home_team": "New York Rangers",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.844067760725311,
+    "away_h2h_odds": 2.2988785973088377,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.7,
+        "away": 2.1
+      },
+      "FanDuel": {
+        "home": 1.84,
+        "away": 1.99
+      },
+      "BetMGM": {
+        "home": 1.67,
+        "away": 2.14
+      },
+      "Caesars": {
+        "home": 1.67,
+        "away": 2.14
+      },
+      "PointsBet": {
+        "home": 1.68,
+        "away": 2.23
+      },
+      "Barstool": {
+        "home": 1.68,
+        "away": 2.13
+      },
+      "WynnBET": {
+        "home": 1.71,
+        "away": 2.18
+      },
+      "BetRivers": {
+        "home": 1.63,
+        "away": 2.3
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 2.3254355900040657,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250225_072",
+    "date": "2025-02-25",
+    "home_team": "Boston Bruins",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 2.196848395829179,
+    "away_h2h_odds": 1.7793988657475965,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.2,
+        "away": 1.62
+      },
+      "FanDuel": {
+        "home": 2.13,
+        "away": 1.65
+      },
+      "BetMGM": {
+        "home": 2.03,
+        "away": 1.72
+      },
+      "Caesars": {
+        "home": 2.14,
+        "away": 1.65
+      },
+      "PointsBet": {
+        "home": 1.95,
+        "away": 1.78
+      },
+      "Barstool": {
+        "home": 1.97,
+        "away": 1.76
+      },
+      "WynnBET": {
+        "home": 2.13,
+        "away": 1.65
+      },
+      "BetRivers": {
+        "home": 2.06,
+        "away": 1.7
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250301_087",
+    "date": "2025-03-01",
+    "home_team": "New York Rangers",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 2.9106323754299677,
+    "away_h2h_odds": 1.5478705586977213,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.91,
+        "away": 1.41
+      },
+      "FanDuel": {
+        "home": 2.46,
+        "away": 1.54
+      },
+      "BetMGM": {
+        "home": 2.74,
+        "away": 1.45
+      },
+      "Caesars": {
+        "home": 2.67,
+        "away": 1.52
+      },
+      "PointsBet": {
+        "home": 2.64,
+        "away": 1.48
+      },
+      "Barstool": {
+        "home": 2.62,
+        "away": 1.48
+      },
+      "WynnBET": {
+        "home": 2.58,
+        "away": 1.5
+      },
+      "BetRivers": {
+        "home": 2.57,
+        "away": 1.55
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.0492137761017872,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250301_104",
+    "date": "2025-03-01",
+    "home_team": "New York Rangers",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.5350240198942608,
+    "away_h2h_odds": 2.8215976808030505,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.46,
+        "away": 2.59
+      },
+      "FanDuel": {
+        "home": 1.47,
+        "away": 2.56
+      },
+      "BetMGM": {
+        "home": 1.46,
+        "away": 2.59
+      },
+      "Caesars": {
+        "home": 1.4,
+        "away": 2.82
+      },
+      "PointsBet": {
+        "home": 1.51,
+        "away": 2.46
+      },
+      "Barstool": {
+        "home": 1.54,
+        "away": 2.39
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.71
+      },
+      "BetRivers": {
+        "home": 1.4,
+        "away": 2.82
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250302_056",
+    "date": "2025-03-02",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.776905601858195,
+    "away_h2h_odds": 2.1624389464556715,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.74,
+        "away": 2.03
+      },
+      "FanDuel": {
+        "home": 1.72,
+        "away": 2.07
+      },
+      "BetMGM": {
+        "home": 1.73,
+        "away": 2.06
+      },
+      "Caesars": {
+        "home": 1.78,
+        "away": 1.99
+      },
+      "PointsBet": {
+        "home": 1.74,
+        "away": 2.04
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.04
+      },
+      "WynnBET": {
+        "home": 1.66,
+        "away": 2.16
+      },
+      "BetRivers": {
+        "home": 1.69,
+        "away": 2.11
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250307_081",
+    "date": "2025-03-07",
+    "home_team": "Florida Panthers",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.5527083534244075,
+    "away_h2h_odds": 2.8908724037667923,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.44,
+        "away": 2.67
+      },
+      "FanDuel": {
+        "home": 1.49,
+        "away": 2.5
+      },
+      "BetMGM": {
+        "home": 1.5,
+        "away": 2.46
+      },
+      "Caesars": {
+        "home": 1.41,
+        "away": 2.886498244356516
+      },
+      "PointsBet": {
+        "home": 1.43,
+        "away": 2.69
+      },
+      "Barstool": {
+        "home": 1.5,
+        "away": 2.48
+      },
+      "WynnBET": {
+        "home": 1.55,
+        "away": 2.34
+      },
+      "BetRivers": {
+        "home": 1.54,
+        "away": 2.37
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.0149691270628036,
+    "best_home_book": "WynnBET",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250307_105",
+    "date": "2025-03-07",
+    "home_team": "Dallas Stars",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 2.6780565725323724,
+    "away_h2h_odds": 1.555586510947286,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.65,
+        "away": 1.49
+      },
+      "FanDuel": {
+        "home": 2.6,
+        "away": 1.47
+      },
+      "BetMGM": {
+        "home": 2.68,
+        "away": 1.45
+      },
+      "Caesars": {
+        "home": 2.43,
+        "away": 1.53
+      },
+      "PointsBet": {
+        "home": 2.57,
+        "away": 1.48
+      },
+      "Barstool": {
+        "home": 2.62,
+        "away": 1.51
+      },
+      "WynnBET": {
+        "home": 2.47,
+        "away": 1.52
+      },
+      "BetRivers": {
+        "home": 2.38,
+        "away": 1.56
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250309_052",
+    "date": "2025-03-09",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.7833962361016023,
+    "away_h2h_odds": 2.245448196998338,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.62,
+        "away": 2.25
+      },
+      "FanDuel": {
+        "home": 1.72,
+        "away": 2.02
+      },
+      "BetMGM": {
+        "home": 1.73,
+        "away": 2.09
+      },
+      "Caesars": {
+        "home": 1.76,
+        "away": 1.97
+      },
+      "PointsBet": {
+        "home": 1.61,
+        "away": 2.19
+      },
+      "Barstool": {
+        "home": 1.78,
+        "away": 1.94
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.16
+      },
+      "BetRivers": {
+        "home": 1.62,
+        "away": 2.18
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250311_027",
+    "date": "2025-03-11",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.537378217224616,
+    "away_h2h_odds": 2.7659323685170185,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.42,
+        "away": 2.77
+      },
+      "FanDuel": {
+        "home": 1.48,
+        "away": 2.47
+      },
+      "BetMGM": {
+        "home": 1.49,
+        "away": 2.45
+      },
+      "Caesars": {
+        "home": 1.47,
+        "away": 2.52
+      },
+      "PointsBet": {
+        "home": 1.48,
+        "away": 2.57
+      },
+      "Barstool": {
+        "home": 1.54,
+        "away": 2.45
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.77
+      },
+      "BetRivers": {
+        "home": 1.53,
+        "away": 2.36
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 4,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250312_002",
+    "date": "2025-03-12",
+    "home_team": "Florida Panthers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 2.1203848173712974,
+    "away_h2h_odds": 1.8467748587109147,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.97,
+        "away": 1.81
+      },
+      "FanDuel": {
+        "home": 2.06,
+        "away": 1.7
+      },
+      "BetMGM": {
+        "home": 2.03,
+        "away": 1.79
+      },
+      "Caesars": {
+        "home": 1.96,
+        "away": 1.78
+      },
+      "PointsBet": {
+        "home": 1.88,
+        "away": 1.85
+      },
+      "Barstool": {
+        "home": 2.12,
+        "away": 1.66
+      },
+      "WynnBET": {
+        "home": 1.92,
+        "away": 1.81
+      },
+      "BetRivers": {
+        "home": 1.92,
+        "away": 1.81
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250313_088",
+    "date": "2025-03-13",
+    "home_team": "Boston Bruins",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.678907312233923,
+    "away_h2h_odds": 1.6680322318004124,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.43,
+        "away": 1.6
+      },
+      "FanDuel": {
+        "home": 2.25,
+        "away": 1.64
+      },
+      "BetMGM": {
+        "home": 2.57,
+        "away": 1.5
+      },
+      "Caesars": {
+        "home": 2.68,
+        "away": 1.49
+      },
+      "PointsBet": {
+        "home": 2.39,
+        "away": 1.57
+      },
+      "Barstool": {
+        "home": 2.55,
+        "away": 1.51
+      },
+      "WynnBET": {
+        "home": 2.58,
+        "away": 1.5
+      },
+      "BetRivers": {
+        "home": 2.19,
+        "away": 1.67
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.796546801404043,
+    "best_home_book": "Caesars",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250314_006",
+    "date": "2025-03-14",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.4384617535815725,
+    "away_h2h_odds": 2.9735989174154764,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.44,
+        "away": 2.67
+      },
+      "FanDuel": {
+        "home": 1.39,
+        "away": 2.85
+      },
+      "BetMGM": {
+        "home": 1.36,
+        "away": 2.97
+      },
+      "Caesars": {
+        "home": 1.41,
+        "away": 2.89
+      },
+      "PointsBet": {
+        "home": 1.4,
+        "away": 2.91
+      },
+      "Barstool": {
+        "home": 1.42,
+        "away": 2.75
+      },
+      "WynnBET": {
+        "home": 1.39,
+        "away": 2.87
+      },
+      "BetRivers": {
+        "home": 1.43,
+        "away": 2.68
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250317_136",
+    "date": "2025-03-17",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.9968045733304134,
+    "away_h2h_odds": 1.5776275574727185,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.54,
+        "away": 1.51
+      },
+      "FanDuel": {
+        "home": 2.76,
+        "away": 1.44
+      },
+      "BetMGM": {
+        "home": 2.45,
+        "away": 1.57
+      },
+      "Caesars": {
+        "home": 2.48,
+        "away": 1.55
+      },
+      "PointsBet": {
+        "home": 3.0,
+        "away": 1.38
+      },
+      "Barstool": {
+        "home": 2.44,
+        "away": 1.54
+      },
+      "WynnBET": {
+        "home": 2.51,
+        "away": 1.58
+      },
+      "BetRivers": {
+        "home": 2.72,
+        "away": 1.45
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 3.353626068909832,
+    "best_home_book": "PointsBet",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250320_068",
+    "date": "2025-03-20",
+    "home_team": "Florida Panthers",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.8972355704832797,
+    "away_h2h_odds": 2.01581779264292,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.73,
+        "away": 2.02
+      },
+      "FanDuel": {
+        "home": 1.9,
+        "away": 1.83
+      },
+      "BetMGM": {
+        "home": 1.78,
+        "away": 1.95
+      },
+      "Caesars": {
+        "home": 1.82,
+        "away": 1.96
+      },
+      "PointsBet": {
+        "home": 1.79,
+        "away": 1.93
+      },
+      "Barstool": {
+        "home": 1.78,
+        "away": 1.94
+      },
+      "WynnBET": {
+        "home": 1.79,
+        "away": 1.94
+      },
+      "BetRivers": {
+        "home": 1.84,
+        "away": 1.88
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250325_055",
+    "date": "2025-03-25",
+    "home_team": "Florida Panthers",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.527181637381043,
+    "away_h2h_odds": 2.5916657624124273,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.51,
+        "away": 2.42
+      },
+      "FanDuel": {
+        "home": 1.49,
+        "away": 2.46
+      },
+      "BetMGM": {
+        "home": 1.53,
+        "away": 2.36
+      },
+      "Caesars": {
+        "home": 1.5,
+        "away": 2.43
+      },
+      "PointsBet": {
+        "home": 1.51,
+        "away": 2.42
+      },
+      "Barstool": {
+        "home": 1.45,
+        "away": 2.57
+      },
+      "WynnBET": {
+        "home": 1.48,
+        "away": 2.59
+      },
+      "BetRivers": {
+        "home": 1.52,
+        "away": 2.38
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250328_121",
+    "date": "2025-03-28",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 2.3952563304036207,
+    "away_h2h_odds": 1.6758697423703806,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.36,
+        "away": 1.58
+      },
+      "FanDuel": {
+        "home": 2.35,
+        "away": 1.59
+      },
+      "BetMGM": {
+        "home": 2.32,
+        "away": 1.65
+      },
+      "Caesars": {
+        "home": 2.24,
+        "away": 1.64
+      },
+      "PointsBet": {
+        "home": 2.24,
+        "away": 1.64
+      },
+      "Barstool": {
+        "home": 2.18,
+        "away": 1.68
+      },
+      "WynnBET": {
+        "home": 2.27,
+        "away": 1.63
+      },
+      "BetRivers": {
+        "home": 2.4,
+        "away": 1.61
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetRivers",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250330_122",
+    "date": "2025-03-30",
+    "home_team": "Dallas Stars",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.5112369028652701,
+    "away_h2h_odds": 2.7973820596765138,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.48,
+        "away": 2.58
+      },
+      "FanDuel": {
+        "home": 1.48,
+        "away": 2.58
+      },
+      "BetMGM": {
+        "home": 1.42,
+        "away": 2.8
+      },
+      "Caesars": {
+        "home": 1.48,
+        "away": 2.59
+      },
+      "PointsBet": {
+        "home": 1.47,
+        "away": 2.61
+      },
+      "Barstool": {
+        "home": 1.51,
+        "away": 2.49
+      },
+      "WynnBET": {
+        "home": 1.46,
+        "away": 2.64
+      },
+      "BetRivers": {
+        "home": 1.48,
+        "away": 2.58
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250331_083",
+    "date": "2025-03-31",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.918290272287496,
+    "away_h2h_odds": 2.2730419328770846,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.78,
+        "away": 1.97
+      },
+      "FanDuel": {
+        "home": 1.62,
+        "away": 2.21
+      },
+      "BetMGM": {
+        "home": 1.65,
+        "away": 2.16
+      },
+      "Caesars": {
+        "home": 1.92,
+        "away": 1.91
+      },
+      "PointsBet": {
+        "home": 1.76,
+        "away": 1.99
+      },
+      "Barstool": {
+        "home": 1.63,
+        "away": 2.27
+      },
+      "WynnBET": {
+        "home": 1.82,
+        "away": 1.92
+      },
+      "BetRivers": {
+        "home": 1.8,
+        "away": 1.94
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.032656322656281,
+    "best_home_book": "Caesars",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250402_106",
+    "date": "2025-04-02",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.8468932569438228,
+    "away_h2h_odds": 2.196887199842236,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.65,
+        "away": 2.13
+      },
+      "FanDuel": {
+        "home": 1.61,
+        "away": 2.2
+      },
+      "BetMGM": {
+        "home": 1.73,
+        "away": 2.01
+      },
+      "Caesars": {
+        "home": 1.72,
+        "away": 2.02
+      },
+      "PointsBet": {
+        "home": 1.7,
+        "away": 2.04
+      },
+      "Barstool": {
+        "home": 1.72,
+        "away": 2.01
+      },
+      "WynnBET": {
+        "home": 1.76,
+        "away": 2.04
+      },
+      "BetRivers": {
+        "home": 1.8503636263994885,
+        "away": 2.03
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.33720175994917945,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250406_024",
+    "date": "2025-04-06",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.450264055902187,
+    "away_h2h_odds": 3.443762735059125,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.32,
+        "away": 3.15
+      },
+      "FanDuel": {
+        "home": 1.33,
+        "away": 3.13
+      },
+      "BetMGM": {
+        "home": 1.45,
+        "away": 2.79
+      },
+      "Caesars": {
+        "home": 1.28,
+        "away": 3.44
+      },
+      "PointsBet": {
+        "home": 1.37,
+        "away": 2.89
+      },
+      "Barstool": {
+        "home": 1.35,
+        "away": 3.0
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.69
+      },
+      "BetRivers": {
+        "home": 1.35,
+        "away": 3.01
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 2.050224182173599,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250410_119",
+    "date": "2025-04-10",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.6069056218643902,
+    "away_h2h_odds": 2.7067308192164474,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.58,
+        "away": 2.38
+      },
+      "FanDuel": {
+        "home": 1.47,
+        "away": 2.66
+      },
+      "BetMGM": {
+        "home": 1.56,
+        "away": 2.41
+      },
+      "Caesars": {
+        "home": 1.51,
+        "away": 2.54
+      },
+      "PointsBet": {
+        "home": 1.61,
+        "away": 2.32
+      },
+      "Barstool": {
+        "home": 1.58,
+        "away": 2.38
+      },
+      "WynnBET": {
+        "home": 1.46,
+        "away": 2.71
+      },
+      "BetRivers": {
+        "home": 1.54,
+        "away": 2.47
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.8304948662456679,
+    "best_home_book": "PointsBet",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250412_060",
+    "date": "2025-04-12",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.7053562020214357,
+    "away_h2h_odds": 2.516202784039257,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.56,
+        "away": 2.37
+      },
+      "FanDuel": {
+        "home": 1.59,
+        "away": 2.31
+      },
+      "BetMGM": {
+        "home": 1.5,
+        "away": 2.52
+      },
+      "Caesars": {
+        "home": 1.71,
+        "away": 2.1
+      },
+      "PointsBet": {
+        "home": 1.63,
+        "away": 2.24
+      },
+      "Barstool": {
+        "home": 1.64,
+        "away": 2.27
+      },
+      "WynnBET": {
+        "home": 1.55,
+        "away": 2.5
+      },
+      "BetRivers": {
+        "home": 1.57,
+        "away": 2.46
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.6454356666250503,
+    "best_home_book": "Caesars",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250419_098",
+    "date": "2025-04-19",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.0348110579744194,
+    "away_h2h_odds": 1.8846112380833475,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.99,
+        "away": 1.78
+      },
+      "FanDuel": {
+        "home": 2.03,
+        "away": 1.8
+      },
+      "BetMGM": {
+        "home": 2.03,
+        "away": 1.75
+      },
+      "Caesars": {
+        "home": 1.97,
+        "away": 1.8
+      },
+      "PointsBet": {
+        "home": 1.98,
+        "away": 1.8
+      },
+      "Barstool": {
+        "home": 1.91,
+        "away": 1.86
+      },
+      "WynnBET": {
+        "home": 1.98,
+        "away": 1.86
+      },
+      "BetRivers": {
+        "home": 1.88,
+        "away": 1.88
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250425_059",
+    "date": "2025-04-25",
+    "home_team": "Florida Panthers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.7776415888214958,
+    "away_h2h_odds": 2.303594315446692,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.78,
+        "away": 2.02
+      },
+      "FanDuel": {
+        "home": 1.68,
+        "away": 2.17
+      },
+      "BetMGM": {
+        "home": 1.76,
+        "away": 2.04
+      },
+      "Caesars": {
+        "home": 1.74,
+        "away": 2.07
+      },
+      "PointsBet": {
+        "home": 1.7,
+        "away": 2.13
+      },
+      "Barstool": {
+        "home": 1.7,
+        "away": 2.23
+      },
+      "WynnBET": {
+        "home": 1.73,
+        "away": 2.14
+      },
+      "BetRivers": {
+        "home": 1.61,
+        "away": 2.3
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.3363969876937878,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250429_127",
+    "date": "2025-04-29",
+    "home_team": "Boston Bruins",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.7880201968513738,
+    "away_h2h_odds": 2.1980099711810013,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.68,
+        "away": 2.17
+      },
+      "FanDuel": {
+        "home": 1.7,
+        "away": 2.2
+      },
+      "BetMGM": {
+        "home": 1.69,
+        "away": 2.14
+      },
+      "Caesars": {
+        "home": 1.74,
+        "away": 2.08
+      },
+      "PointsBet": {
+        "home": 1.79,
+        "away": 2.01
+      },
+      "Barstool": {
+        "home": 1.73,
+        "away": 2.13
+      },
+      "WynnBET": {
+        "home": 1.72,
+        "away": 2.1
+      },
+      "BetRivers": {
+        "home": 1.71,
+        "away": 2.18
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250501_066",
+    "date": "2025-05-01",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.7786787510127617,
+    "away_h2h_odds": 2.2552036704001774,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.76,
+        "away": 2.08
+      },
+      "FanDuel": {
+        "home": 1.78,
+        "away": 2.04
+      },
+      "BetMGM": {
+        "home": 1.72,
+        "away": 2.12
+      },
+      "Caesars": {
+        "home": 1.67,
+        "away": 2.2
+      },
+      "PointsBet": {
+        "home": 1.75,
+        "away": 2.08
+      },
+      "Barstool": {
+        "home": 1.68,
+        "away": 2.19
+      },
+      "WynnBET": {
+        "home": 1.66,
+        "away": 2.23
+      },
+      "BetRivers": {
+        "home": 1.68,
+        "away": 2.26
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 6,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250501_086",
+    "date": "2025-05-01",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.6396971131078897,
+    "away_h2h_odds": 2.8734883300462686,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.64,
+        "away": 2.24
+      },
+      "FanDuel": {
+        "home": 1.5,
+        "away": 2.58
+      },
+      "BetMGM": {
+        "home": 1.53,
+        "away": 2.47
+      },
+      "Caesars": {
+        "home": 1.54,
+        "away": 2.46
+      },
+      "PointsBet": {
+        "home": 1.59,
+        "away": 2.46
+      },
+      "Barstool": {
+        "home": 1.6,
+        "away": 2.32
+      },
+      "WynnBET": {
+        "home": 1.45,
+        "away": 2.87
+      },
+      "BetRivers": {
+        "home": 1.48,
+        "away": 2.64
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.39745006429908,
+    "best_home_book": "DraftKings",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250507_144",
+    "date": "2025-05-07",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.4723724544783092,
+    "away_h2h_odds": 3.225720311417167,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.4,
+        "away": 2.94
+      },
+      "FanDuel": {
+        "home": 1.47,
+        "away": 2.68
+      },
+      "BetMGM": {
+        "home": 1.38,
+        "away": 3.23
+      },
+      "Caesars": {
+        "home": 1.38,
+        "away": 3.08
+      },
+      "PointsBet": {
+        "home": 1.45,
+        "away": 2.76
+      },
+      "Barstool": {
+        "home": 1.37,
+        "away": 3.1
+      },
+      "WynnBET": {
+        "home": 1.38,
+        "away": 3.05
+      },
+      "BetRivers": {
+        "home": 1.39,
+        "away": 3.02
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.093400429622271,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250509_077",
+    "date": "2025-05-09",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.3975370427209328,
+    "away_h2h_odds": 3.14160378996361,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.39,
+        "away": 2.79
+      },
+      "FanDuel": {
+        "home": 1.33,
+        "away": 3.09
+      },
+      "BetMGM": {
+        "home": 1.38,
+        "away": 2.86
+      },
+      "Caesars": {
+        "home": 1.38,
+        "away": 3.11
+      },
+      "PointsBet": {
+        "home": 1.36,
+        "away": 2.93
+      },
+      "Barstool": {
+        "home": 1.34,
+        "away": 3.14
+      },
+      "WynnBET": {
+        "home": 1.38,
+        "away": 2.83
+      },
+      "BetRivers": {
+        "home": 1.4,
+        "away": 2.77
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetRivers",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250519_011",
+    "date": "2025-05-19",
+    "home_team": "Florida Panthers",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 2.043715238181861,
+    "away_h2h_odds": 1.827946881462415,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.01,
+        "away": 1.73
+      },
+      "FanDuel": {
+        "home": 1.97,
+        "away": 1.76
+      },
+      "BetMGM": {
+        "home": 1.89,
+        "away": 1.83
+      },
+      "Caesars": {
+        "home": 1.93,
+        "away": 1.79
+      },
+      "PointsBet": {
+        "home": 1.96,
+        "away": 1.76
+      },
+      "Barstool": {
+        "home": 1.96,
+        "away": 1.77
+      },
+      "WynnBET": {
+        "home": 2.04,
+        "away": 1.7
+      },
+      "BetRivers": {
+        "home": 1.89,
+        "away": 1.83
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250521_058",
+    "date": "2025-05-21",
+    "home_team": "Florida Panthers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.6195751748883074,
+    "away_h2h_odds": 2.642356213227444,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.6,
+        "away": 2.42
+      },
+      "FanDuel": {
+        "home": 1.62,
+        "away": 2.45
+      },
+      "BetMGM": {
+        "home": 1.57,
+        "away": 2.41
+      },
+      "Caesars": {
+        "home": 1.49,
+        "away": 2.64
+      },
+      "PointsBet": {
+        "home": 1.55,
+        "away": 2.46
+      },
+      "Barstool": {
+        "home": 1.5,
+        "away": 2.59
+      },
+      "WynnBET": {
+        "home": 1.52,
+        "away": 2.54
+      },
+      "BetRivers": {
+        "home": 1.52,
+        "away": 2.63
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.41209340179118037,
+    "best_home_book": "FanDuel",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250523_133",
+    "date": "2025-05-23",
+    "home_team": "Dallas Stars",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 1.8404710293814144,
+    "away_h2h_odds": 2.1360296430128565,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.84,
+        "away": 2.02
+      },
+      "FanDuel": {
+        "home": 1.75,
+        "away": 2.07
+      },
+      "BetMGM": {
+        "home": 1.75,
+        "away": 2.07
+      },
+      "Caesars": {
+        "home": 1.71,
+        "away": 2.13
+      },
+      "PointsBet": {
+        "home": 1.72,
+        "away": 2.11
+      },
+      "Barstool": {
+        "home": 1.84,
+        "away": 1.96
+      },
+      "WynnBET": {
+        "home": 1.8,
+        "away": 2.0
+      },
+      "BetRivers": {
+        "home": 1.76,
+        "away": 2.14
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250529_125",
+    "date": "2025-05-29",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.4175703863624656,
+    "away_h2h_odds": 3.539197711214519,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.32,
+        "away": 3.22
+      },
+      "FanDuel": {
+        "home": 1.29,
+        "away": 3.54
+      },
+      "BetMGM": {
+        "home": 1.38,
+        "away": 2.93
+      },
+      "Caesars": {
+        "home": 1.39,
+        "away": 2.87
+      },
+      "PointsBet": {
+        "home": 1.32,
+        "away": 3.24
+      },
+      "Barstool": {
+        "home": 1.37,
+        "away": 3.24
+      },
+      "WynnBET": {
+        "home": 1.31,
+        "away": 3.27
+      },
+      "BetRivers": {
+        "home": 1.42,
+        "away": 2.76
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.2163927812561814,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250530_090",
+    "date": "2025-05-30",
+    "home_team": "Colorado Avalanche",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.8245909438433376,
+    "away_h2h_odds": 2.3287150558785727,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.59,
+        "away": 2.33
+      },
+      "FanDuel": {
+        "home": 1.73,
+        "away": 2.05
+      },
+      "BetMGM": {
+        "home": 1.82,
+        "away": 1.93
+      },
+      "Caesars": {
+        "home": 1.62,
+        "away": 2.24
+      },
+      "PointsBet": {
+        "home": 1.7,
+        "away": 2.09
+      },
+      "Barstool": {
+        "home": 1.68,
+        "away": 2.13
+      },
+      "WynnBET": {
+        "home": 1.69,
+        "away": 2.11
+      },
+      "BetRivers": {
+        "home": 1.71,
+        "away": 2.08
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.3028980294774737,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250531_070",
+    "date": "2025-05-31",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.83257087225751,
+    "away_h2h_odds": 2.1778738491662817,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.63,
+        "away": 2.18
+      },
+      "FanDuel": {
+        "home": 1.72,
+        "away": 2.04
+      },
+      "BetMGM": {
+        "home": 1.74,
+        "away": 2.01
+      },
+      "Caesars": {
+        "home": 1.77,
+        "away": 1.97
+      },
+      "PointsBet": {
+        "home": 1.72,
+        "away": 2.1
+      },
+      "Barstool": {
+        "home": 1.67,
+        "away": 2.12
+      },
+      "WynnBET": {
+        "home": 1.75,
+        "away": 2.0
+      },
+      "BetRivers": {
+        "home": 1.83,
+        "away": 1.9
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetRivers",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250531_114",
+    "date": "2025-05-31",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.9486155118807311,
+    "away_h2h_odds": 2.0625812577302267,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.83,
+        "away": 1.96
+      },
+      "FanDuel": {
+        "home": 1.89,
+        "away": 1.98
+      },
+      "BetMGM": {
+        "home": 1.91,
+        "away": 1.94
+      },
+      "Caesars": {
+        "home": 1.84,
+        "away": 1.96
+      },
+      "PointsBet": {
+        "home": 1.81,
+        "away": 2.06
+      },
+      "Barstool": {
+        "home": 1.95,
+        "away": 1.85
+      },
+      "WynnBET": {
+        "home": 1.89,
+        "away": 1.9
+      },
+      "BetRivers": {
+        "home": 1.9,
+        "away": 1.89
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 0.1989696386149653,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250606_128",
+    "date": "2025-06-06",
+    "home_team": "New Jersey Devils",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.590371791090302,
+    "away_h2h_odds": 2.5970050551433306,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.57,
+        "away": 2.32
+      },
+      "FanDuel": {
+        "home": 1.54,
+        "away": 2.37
+      },
+      "BetMGM": {
+        "home": 1.46,
+        "away": 2.6
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.33
+      },
+      "PointsBet": {
+        "home": 1.52,
+        "away": 2.42
+      },
+      "Barstool": {
+        "home": 1.59,
+        "away": 2.27
+      },
+      "WynnBET": {
+        "home": 1.55,
+        "away": 2.35
+      },
+      "BetRivers": {
+        "home": 1.55,
+        "away": 2.46
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250610_065",
+    "date": "2025-06-10",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.5431346873306755,
+    "away_h2h_odds": 2.9656670464054837,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.5,
+        "away": 2.52
+      },
+      "FanDuel": {
+        "home": 1.49,
+        "away": 2.55
+      },
+      "BetMGM": {
+        "home": 1.41,
+        "away": 2.83
+      },
+      "Caesars": {
+        "home": 1.49,
+        "away": 2.57
+      },
+      "PointsBet": {
+        "home": 1.46,
+        "away": 2.65
+      },
+      "Barstool": {
+        "home": 1.54,
+        "away": 2.42
+      },
+      "WynnBET": {
+        "home": 1.38,
+        "away": 2.97
+      },
+      "BetRivers": {
+        "home": 1.44,
+        "away": 2.72
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 1.499776673249742,
+    "best_home_book": "Barstool",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250612_096",
+    "date": "2025-06-12",
+    "home_team": "New Jersey Devils",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.509520278743449,
+    "away_h2h_odds": 3.1819830705037293,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.43,
+        "away": 2.85
+      },
+      "FanDuel": {
+        "home": 1.36,
+        "away": 3.18
+      },
+      "BetMGM": {
+        "home": 1.43,
+        "away": 2.85
+      },
+      "Caesars": {
+        "home": 1.4,
+        "away": 2.96
+      },
+      "PointsBet": {
+        "home": 1.36,
+        "away": 3.18
+      },
+      "Barstool": {
+        "home": 1.44,
+        "away": 2.8
+      },
+      "WynnBET": {
+        "home": 1.37,
+        "away": 3.13
+      },
+      "BetRivers": {
+        "home": 1.51,
+        "away": 2.57
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.382277363491192,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250613_001",
+    "date": "2025-06-13",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.6741280371833291,
+    "away_h2h_odds": 2.540929641254621,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.48,
+        "away": 2.5
+      },
+      "FanDuel": {
+        "home": 1.54,
+        "away": 2.37
+      },
+      "BetMGM": {
+        "home": 1.51,
+        "away": 2.42
+      },
+      "Caesars": {
+        "home": 1.59,
+        "away": 2.34
+      },
+      "PointsBet": {
+        "home": 1.5,
+        "away": 2.46
+      },
+      "Barstool": {
+        "home": 1.67,
+        "away": 2.1
+      },
+      "WynnBET": {
+        "home": 1.47,
+        "away": 2.54
+      },
+      "BetRivers": {
+        "home": 1.58,
+        "away": 2.26
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9201267801147051,
+    "best_home_book": "Barstool",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250616_064",
+    "date": "2025-06-16",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 2.093621733240926,
+    "away_h2h_odds": 1.9000276493162906,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.92,
+        "away": 1.79
+      },
+      "FanDuel": {
+        "home": 2.07,
+        "away": 1.68
+      },
+      "BetMGM": {
+        "home": 1.9,
+        "away": 1.82
+      },
+      "Caesars": {
+        "home": 1.86,
+        "away": 1.85
+      },
+      "PointsBet": {
+        "home": 1.9,
+        "away": 1.81
+      },
+      "Barstool": {
+        "home": 2.0,
+        "away": 1.77
+      },
+      "WynnBET": {
+        "home": 1.81,
+        "away": 1.9
+      },
+      "BetRivers": {
+        "home": 2.09,
+        "away": 1.66
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetRivers",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250616_140",
+    "date": "2025-06-16",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.7356316615627794,
+    "away_h2h_odds": 2.277577513934615,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.61,
+        "away": 2.2
+      },
+      "FanDuel": {
+        "home": 1.63,
+        "away": 2.17
+      },
+      "BetMGM": {
+        "home": 1.58,
+        "away": 2.25
+      },
+      "Caesars": {
+        "home": 1.61,
+        "away": 2.28
+      },
+      "PointsBet": {
+        "home": 1.66,
+        "away": 2.18
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.08
+      },
+      "WynnBET": {
+        "home": 1.65,
+        "away": 2.26
+      },
+      "BetRivers": {
+        "home": 1.62,
+        "away": 2.18
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250620_017",
+    "date": "2025-06-20",
+    "home_team": "Florida Panthers",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.5397070373663964,
+    "away_h2h_odds": 2.760078636889676,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.49,
+        "away": 2.5
+      },
+      "FanDuel": {
+        "home": 1.48,
+        "away": 2.53
+      },
+      "BetMGM": {
+        "home": 1.5,
+        "away": 2.68
+      },
+      "Caesars": {
+        "home": 1.43,
+        "away": 2.69
+      },
+      "PointsBet": {
+        "home": 1.48,
+        "away": 2.53
+      },
+      "Barstool": {
+        "home": 1.41,
+        "away": 2.76
+      },
+      "WynnBET": {
+        "home": 1.54,
+        "away": 2.37
+      },
+      "BetRivers": {
+        "home": 1.44,
+        "away": 2.67
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250621_069",
+    "date": "2025-06-21",
+    "home_team": "New York Rangers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.683584992941118,
+    "away_h2h_odds": 2.371791700473193,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.6,
+        "away": 2.33
+      },
+      "FanDuel": {
+        "home": 1.67,
+        "away": 2.19
+      },
+      "BetMGM": {
+        "home": 1.58,
+        "away": 2.37
+      },
+      "Caesars": {
+        "home": 1.68,
+        "away": 2.17
+      },
+      "PointsBet": {
+        "home": 1.63,
+        "away": 2.26
+      },
+      "Barstool": {
+        "home": 1.58,
+        "away": 2.37
+      },
+      "WynnBET": {
+        "home": 1.67,
+        "away": 2.2
+      },
+      "BetRivers": {
+        "home": 1.61,
+        "away": 2.31
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250621_078",
+    "date": "2025-06-21",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 1.4187348592686237,
+    "away_h2h_odds": 3.293001602038643,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.38,
+        "away": 3.02
+      },
+      "FanDuel": {
+        "home": 1.33,
+        "away": 3.29
+      },
+      "BetMGM": {
+        "home": 1.35,
+        "away": 3.15
+      },
+      "Caesars": {
+        "home": 1.38,
+        "away": 3.03
+      },
+      "PointsBet": {
+        "home": 1.41,
+        "away": 2.86
+      },
+      "Barstool": {
+        "home": 1.36,
+        "away": 3.14
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.85
+      },
+      "BetRivers": {
+        "home": 1.38,
+        "away": 3.02
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250623_021",
+    "date": "2025-06-23",
+    "home_team": "New York Rangers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.7716859836163377,
+    "away_h2h_odds": 2.384554074699219,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.72,
+        "away": 2.11
+      },
+      "FanDuel": {
+        "home": 1.7,
+        "away": 2.14
+      },
+      "BetMGM": {
+        "home": 1.68,
+        "away": 2.18
+      },
+      "Caesars": {
+        "home": 1.77,
+        "away": 2.11
+      },
+      "PointsBet": {
+        "home": 1.7,
+        "away": 2.14
+      },
+      "Barstool": {
+        "home": 1.73,
+        "away": 2.1
+      },
+      "WynnBET": {
+        "home": 1.57,
+        "away": 2.38
+      },
+      "BetRivers": {
+        "home": 1.66,
+        "away": 2.22
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.6467040412485812,
+    "best_home_book": "Caesars",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250624_084",
+    "date": "2025-06-24",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.6073255012080756,
+    "away_h2h_odds": 2.596701996213328,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.5,
+        "away": 2.49
+      },
+      "FanDuel": {
+        "home": 1.46,
+        "away": 2.6
+      },
+      "BetMGM": {
+        "home": 1.48,
+        "away": 2.53
+      },
+      "Caesars": {
+        "home": 1.47,
+        "away": 2.55
+      },
+      "PointsBet": {
+        "home": 1.53,
+        "away": 2.4
+      },
+      "Barstool": {
+        "home": 1.49,
+        "away": 2.49
+      },
+      "WynnBET": {
+        "home": 1.61,
+        "away": 2.23
+      },
+      "BetRivers": {
+        "home": 1.52,
+        "away": 2.57
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250625_034",
+    "date": "2025-06-25",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.9185846803404445,
+    "away_h2h_odds": 2.0959949119783716,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.88,
+        "away": 1.97
+      },
+      "FanDuel": {
+        "home": 1.75,
+        "away": 2.05
+      },
+      "BetMGM": {
+        "home": 1.84,
+        "away": 1.93
+      },
+      "Caesars": {
+        "home": 1.85,
+        "away": 2.01
+      },
+      "PointsBet": {
+        "home": 1.83,
+        "away": 1.95
+      },
+      "Barstool": {
+        "home": 1.92,
+        "away": 1.86
+      },
+      "WynnBET": {
+        "home": 1.79,
+        "away": 2.1
+      },
+      "BetRivers": {
+        "home": 1.92,
+        "away": 1.93
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 0.16848927064114783,
+    "best_home_book": "BetRivers",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250626_123",
+    "date": "2025-06-26",
+    "home_team": "Boston Bruins",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.5702072045993893,
+    "away_h2h_odds": 2.755728506548543,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.48,
+        "away": 2.56
+      },
+      "FanDuel": {
+        "home": 1.42,
+        "away": 2.76
+      },
+      "BetMGM": {
+        "home": 1.49,
+        "away": 2.66
+      },
+      "Caesars": {
+        "home": 1.48,
+        "away": 2.57
+      },
+      "PointsBet": {
+        "home": 1.5,
+        "away": 2.52
+      },
+      "Barstool": {
+        "home": 1.57,
+        "away": 2.46
+      },
+      "WynnBET": {
+        "home": 1.45,
+        "away": 2.67
+      },
+      "BetRivers": {
+        "home": 1.43,
+        "away": 2.71
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.026099411315705368,
+    "best_home_book": "Barstool",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250702_113",
+    "date": "2025-07-02",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 2.222685253007726,
+    "away_h2h_odds": 1.8490788175213493,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.98,
+        "away": 1.77
+      },
+      "FanDuel": {
+        "home": 1.94,
+        "away": 1.8
+      },
+      "BetMGM": {
+        "home": 1.97,
+        "away": 1.85
+      },
+      "Caesars": {
+        "home": 2.22,
+        "away": 1.61
+      },
+      "PointsBet": {
+        "home": 2.04,
+        "away": 1.72
+      },
+      "Barstool": {
+        "home": 2.07,
+        "away": 1.7
+      },
+      "WynnBET": {
+        "home": 1.96,
+        "away": 1.78
+      },
+      "BetRivers": {
+        "home": 2.03,
+        "away": 1.73
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.937091348213448,
+    "best_home_book": "Caesars",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250703_111",
+    "date": "2025-07-03",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 2.4415258937639863,
+    "away_h2h_odds": 1.7510691357517594,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.24,
+        "away": 1.65
+      },
+      "FanDuel": {
+        "home": 2.31,
+        "away": 1.65
+      },
+      "BetMGM": {
+        "home": 2.41,
+        "away": 1.57
+      },
+      "Caesars": {
+        "home": 2.21,
+        "away": 1.66
+      },
+      "PointsBet": {
+        "home": 2.2,
+        "away": 1.7517664016415775
+      },
+      "Barstool": {
+        "home": 2.21,
+        "away": 1.66
+      },
+      "WynnBET": {
+        "home": 2.37,
+        "away": 1.58
+      },
+      "BetRivers": {
+        "home": 2.44,
+        "away": 1.55
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.9721820641153132,
+    "best_home_book": "BetRivers",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250703_129",
+    "date": "2025-07-03",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 2.202230731819854,
+    "away_h2h_odds": 1.8666617067073856,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.95,
+        "away": 1.87
+      },
+      "FanDuel": {
+        "home": 2.11,
+        "away": 1.7
+      },
+      "BetMGM": {
+        "home": 2.2,
+        "away": 1.65
+      },
+      "Caesars": {
+        "home": 2.02,
+        "away": 1.77
+      },
+      "PointsBet": {
+        "home": 2.01,
+        "away": 1.78
+      },
+      "Barstool": {
+        "home": 2.16,
+        "away": 1.67
+      },
+      "WynnBET": {
+        "home": 2.04,
+        "away": 1.75
+      },
+      "BetRivers": {
+        "home": 2.12,
+        "away": 1.7
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.0304361328912437,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250705_046",
+    "date": "2025-07-05",
+    "home_team": "Dallas Stars",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.4781719971259475,
+    "away_h2h_odds": 2.913047496352867,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.43,
+        "away": 2.77
+      },
+      "FanDuel": {
+        "home": 1.41,
+        "away": 2.79
+      },
+      "BetMGM": {
+        "home": 1.41,
+        "away": 2.78
+      },
+      "Caesars": {
+        "home": 1.38,
+        "away": 2.91
+      },
+      "PointsBet": {
+        "home": 1.47,
+        "away": 2.55
+      },
+      "Barstool": {
+        "home": 1.48,
+        "away": 2.65
+      },
+      "WynnBET": {
+        "home": 1.41,
+        "away": 2.76
+      },
+      "BetRivers": {
+        "home": 1.43,
+        "away": 2.69
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250705_094",
+    "date": "2025-07-05",
+    "home_team": "New Jersey Devils",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.8739474684113475,
+    "away_h2h_odds": 2.3416847949086463,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.6,
+        "away": 2.3
+      },
+      "FanDuel": {
+        "home": 1.61,
+        "away": 2.28
+      },
+      "BetMGM": {
+        "home": 1.65,
+        "away": 2.21
+      },
+      "Caesars": {
+        "home": 1.6,
+        "away": 2.3
+      },
+      "PointsBet": {
+        "home": 1.63,
+        "away": 2.34
+      },
+      "Barstool": {
+        "home": 1.87,
+        "away": 1.95
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.24
+      },
+      "BetRivers": {
+        "home": 1.7,
+        "away": 2.11
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.09338431669819,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250706_057",
+    "date": "2025-07-06",
+    "home_team": "Florida Panthers",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 2.1793853426393968,
+    "away_h2h_odds": 1.861348210395563,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.0,
+        "away": 1.81
+      },
+      "FanDuel": {
+        "home": 1.94,
+        "away": 1.86
+      },
+      "BetMGM": {
+        "home": 2.1753475133885334,
+        "away": 1.74
+      },
+      "Caesars": {
+        "home": 2.06,
+        "away": 1.8
+      },
+      "PointsBet": {
+        "home": 2.04,
+        "away": 1.84
+      },
+      "Barstool": {
+        "home": 2.07,
+        "away": 1.75
+      },
+      "WynnBET": {
+        "home": 1.97,
+        "away": 1.83
+      },
+      "BetRivers": {
+        "home": 1.97,
+        "away": 1.83
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.3925389793961731,
+    "best_home_book": "BetMGM",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250706_092",
+    "date": "2025-07-06",
+    "home_team": "Boston Bruins",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.5420324691726384,
+    "away_h2h_odds": 2.671762027581995,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.46,
+        "away": 2.67
+      },
+      "FanDuel": {
+        "home": 1.53,
+        "away": 2.47
+      },
+      "BetMGM": {
+        "home": 1.5,
+        "away": 2.54
+      },
+      "Caesars": {
+        "home": 1.54,
+        "away": 2.43
+      },
+      "PointsBet": {
+        "home": 1.54,
+        "away": 2.44
+      },
+      "Barstool": {
+        "home": 1.47,
+        "away": 2.64
+      },
+      "WynnBET": {
+        "home": 1.53,
+        "away": 2.45
+      },
+      "BetRivers": {
+        "home": 1.52,
+        "away": 2.49
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 6,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250708_029",
+    "date": "2025-07-08",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.593929660587233,
+    "away_h2h_odds": 2.530027565549558,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.55,
+        "away": 2.53
+      },
+      "FanDuel": {
+        "home": 1.58,
+        "away": 2.47
+      },
+      "BetMGM": {
+        "home": 1.59,
+        "away": 2.32
+      },
+      "Caesars": {
+        "home": 1.54,
+        "away": 2.45
+      },
+      "PointsBet": {
+        "home": 1.56,
+        "away": 2.4
+      },
+      "Barstool": {
+        "home": 1.54,
+        "away": 2.45
+      },
+      "WynnBET": {
+        "home": 1.52,
+        "away": 2.49
+      },
+      "BetRivers": {
+        "home": 1.51,
+        "away": 2.53
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250709_110",
+    "date": "2025-07-09",
+    "home_team": "Colorado Avalanche",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.155627504963184,
+    "away_h2h_odds": 1.939861929039666,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.95,
+        "away": 1.79
+      },
+      "FanDuel": {
+        "home": 1.94,
+        "away": 1.8
+      },
+      "BetMGM": {
+        "home": 2.08,
+        "away": 1.69
+      },
+      "Caesars": {
+        "home": 2.05,
+        "away": 1.72
+      },
+      "PointsBet": {
+        "home": 1.84,
+        "away": 1.94
+      },
+      "Barstool": {
+        "home": 2.16,
+        "away": 1.65
+      },
+      "WynnBET": {
+        "home": 1.85,
+        "away": 1.89
+      },
+      "BetRivers": {
+        "home": 1.93,
+        "away": 1.81
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 2.10305257659551,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250714_137",
+    "date": "2025-07-14",
+    "home_team": "Florida Panthers",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 2.425318300291708,
+    "away_h2h_odds": 1.791003177102183,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.0,
+        "away": 1.77
+      },
+      "FanDuel": {
+        "home": 2.28,
+        "away": 1.6
+      },
+      "BetMGM": {
+        "home": 2.43,
+        "away": 1.53
+      },
+      "Caesars": {
+        "home": 1.98,
+        "away": 1.79
+      },
+      "PointsBet": {
+        "home": 2.1,
+        "away": 1.7
+      },
+      "Barstool": {
+        "home": 2.07,
+        "away": 1.72
+      },
+      "WynnBET": {
+        "home": 2.19,
+        "away": 1.64
+      },
+      "BetRivers": {
+        "home": 2.12,
+        "away": 1.69
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 3.022333676306621,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250715_067",
+    "date": "2025-07-15",
+    "home_team": "New Jersey Devils",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.9438610253856727,
+    "away_h2h_odds": 2.0192281272140464,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.88,
+        "away": 1.89
+      },
+      "FanDuel": {
+        "home": 1.83,
+        "away": 1.94
+      },
+      "BetMGM": {
+        "home": 1.77,
+        "away": 2.01
+      },
+      "Caesars": {
+        "home": 1.94,
+        "away": 1.83
+      },
+      "PointsBet": {
+        "home": 1.82,
+        "away": 1.95
+      },
+      "Barstool": {
+        "home": 1.9,
+        "away": 1.87
+      },
+      "WynnBET": {
+        "home": 1.83,
+        "away": 1.94
+      },
+      "BetRivers": {
+        "home": 1.85,
+        "away": 2.02
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250716_102",
+    "date": "2025-07-16",
+    "home_team": "Boston Bruins",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.8108567127520276,
+    "away_h2h_odds": 2.1624786045866444,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.75,
+        "away": 2.03
+      },
+      "FanDuel": {
+        "home": 1.76,
+        "away": 2.02
+      },
+      "BetMGM": {
+        "home": 1.71,
+        "away": 2.1
+      },
+      "Caesars": {
+        "home": 1.81,
+        "away": 1.96
+      },
+      "PointsBet": {
+        "home": 1.71,
+        "away": 2.09
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.05
+      },
+      "WynnBET": {
+        "home": 1.69,
+        "away": 2.16
+      },
+      "BetRivers": {
+        "home": 1.72,
+        "away": 2.07
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250718_033",
+    "date": "2025-07-18",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.7228152300152149,
+    "away_h2h_odds": 2.5644008296757526,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.5,
+        "away": 2.42
+      },
+      "FanDuel": {
+        "home": 1.55,
+        "away": 2.31
+      },
+      "BetMGM": {
+        "home": 1.6,
+        "away": 2.21
+      },
+      "Caesars": {
+        "home": 1.54,
+        "away": 2.4
+      },
+      "PointsBet": {
+        "home": 1.72,
+        "away": 2.1
+      },
+      "Barstool": {
+        "home": 1.6,
+        "away": 2.21
+      },
+      "WynnBET": {
+        "home": 1.45,
+        "away": 2.56
+      },
+      "BetRivers": {
+        "home": 1.64,
+        "away": 2.13
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 3.0502951966339342,
+    "best_home_book": "PointsBet",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250718_124",
+    "date": "2025-07-18",
+    "home_team": "New Jersey Devils",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.725605996145172,
+    "away_h2h_odds": 2.2942801789359315,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.63,
+        "away": 2.21
+      },
+      "FanDuel": {
+        "home": 1.73,
+        "away": 2.05
+      },
+      "BetMGM": {
+        "home": 1.58,
+        "away": 2.29
+      },
+      "Caesars": {
+        "home": 1.67,
+        "away": 2.13
+      },
+      "PointsBet": {
+        "home": 1.7,
+        "away": 2.08
+      },
+      "Barstool": {
+        "home": 1.69,
+        "away": 2.15
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.2
+      },
+      "BetRivers": {
+        "home": 1.67,
+        "away": 2.14
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250721_126",
+    "date": "2025-07-21",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.6891612891526382,
+    "away_h2h_odds": 2.4504124445070348,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.57,
+        "away": 2.42
+      },
+      "FanDuel": {
+        "home": 1.55,
+        "away": 2.45
+      },
+      "BetMGM": {
+        "home": 1.61,
+        "away": 2.32
+      },
+      "Caesars": {
+        "home": 1.61,
+        "away": 2.4
+      },
+      "PointsBet": {
+        "home": 1.68,
+        "away": 2.2
+      },
+      "Barstool": {
+        "home": 1.69,
+        "away": 2.18
+      },
+      "WynnBET": {
+        "home": 1.61,
+        "away": 2.33
+      },
+      "BetRivers": {
+        "home": 1.55,
+        "away": 2.45
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250723_048",
+    "date": "2025-07-23",
+    "home_team": "Florida Panthers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.9117067231043525,
+    "away_h2h_odds": 1.9589622955072887,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.9,
+        "away": 1.82
+      },
+      "FanDuel": {
+        "home": 1.78,
+        "away": 1.94
+      },
+      "BetMGM": {
+        "home": 1.91,
+        "away": 1.81
+      },
+      "Caesars": {
+        "home": 1.91,
+        "away": 1.81
+      },
+      "PointsBet": {
+        "home": 1.83,
+        "away": 1.96
+      },
+      "Barstool": {
+        "home": 1.81,
+        "away": 1.9
+      },
+      "WynnBET": {
+        "home": 1.79,
+        "away": 1.94
+      },
+      "BetRivers": {
+        "home": 1.84,
+        "away": 1.87
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Caesars",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250730_025",
+    "date": "2025-07-30",
+    "home_team": "New Jersey Devils",
+    "away_team": "Carolina Hurricanes",
+    "home_h2h_odds": 1.7000589251768596,
+    "away_h2h_odds": 2.541820000238136,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.55,
+        "away": 2.53
+      },
+      "FanDuel": {
+        "home": 1.62,
+        "away": 2.31
+      },
+      "BetMGM": {
+        "home": 1.7,
+        "away": 2.16
+      },
+      "Caesars": {
+        "home": 1.6,
+        "away": 2.4
+      },
+      "PointsBet": {
+        "home": 1.67,
+        "away": 2.2
+      },
+      "Barstool": {
+        "home": 1.55,
+        "away": 2.54
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.29
+      },
+      "BetRivers": {
+        "home": 1.65,
+        "away": 2.25
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.870983438668783,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250805_007",
+    "date": "2025-08-05",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 2.045175534477849,
+    "away_h2h_odds": 1.9409711882817628,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.78,
+        "away": 1.94
+      },
+      "FanDuel": {
+        "home": 1.93,
+        "away": 1.86
+      },
+      "BetMGM": {
+        "home": 1.91,
+        "away": 1.8
+      },
+      "Caesars": {
+        "home": 1.96,
+        "away": 1.76
+      },
+      "PointsBet": {
+        "home": 2.05,
+        "away": 1.7
+      },
+      "Barstool": {
+        "home": 1.91,
+        "away": 1.8
+      },
+      "WynnBET": {
+        "home": 1.97,
+        "away": 1.76
+      },
+      "BetRivers": {
+        "home": 1.89,
+        "away": 1.82
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250813_022",
+    "date": "2025-08-13",
+    "home_team": "New York Rangers",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.6592401820871072,
+    "away_h2h_odds": 2.3370797966700163,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.57,
+        "away": 2.31
+      },
+      "FanDuel": {
+        "home": 1.6,
+        "away": 2.23
+      },
+      "BetMGM": {
+        "home": 1.63,
+        "away": 2.18
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.32
+      },
+      "PointsBet": {
+        "home": 1.66,
+        "away": 2.13
+      },
+      "Barstool": {
+        "home": 1.55,
+        "away": 2.34
+      },
+      "WynnBET": {
+        "home": 1.58,
+        "away": 2.28
+      },
+      "BetRivers": {
+        "home": 1.61,
+        "away": 2.21
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250814_135",
+    "date": "2025-08-14",
+    "home_team": "Dallas Stars",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 1.9232342872226402,
+    "away_h2h_odds": 2.094136519238949,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.9,
+        "away": 1.87
+      },
+      "FanDuel": {
+        "home": 1.74,
+        "away": 2.06
+      },
+      "BetMGM": {
+        "home": 1.92,
+        "away": 1.85
+      },
+      "Caesars": {
+        "home": 1.75,
+        "away": 2.05
+      },
+      "PointsBet": {
+        "home": 1.87,
+        "away": 1.95
+      },
+      "Barstool": {
+        "home": 1.79,
+        "away": 1.99
+      },
+      "WynnBET": {
+        "home": 1.72,
+        "away": 2.09
+      },
+      "BetRivers": {
+        "home": 1.78,
+        "away": 2.01
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 0.2525121516668394,
+    "best_home_book": "BetMGM",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250818_037",
+    "date": "2025-08-18",
+    "home_team": "New York Rangers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.096229929781001,
+    "away_h2h_odds": 1.9418117367673817,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.88,
+        "away": 1.92
+      },
+      "FanDuel": {
+        "home": 2.1,
+        "away": 1.8
+      },
+      "BetMGM": {
+        "home": 2.0,
+        "away": 1.8
+      },
+      "Caesars": {
+        "home": 1.85,
+        "away": 1.94
+      },
+      "PointsBet": {
+        "home": 1.98,
+        "away": 1.86
+      },
+      "Barstool": {
+        "home": 1.87,
+        "away": 1.93
+      },
+      "WynnBET": {
+        "home": 1.95,
+        "away": 1.85
+      },
+      "BetRivers": {
+        "home": 1.9,
+        "away": 1.89
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.8034145445348972,
+    "best_home_book": "FanDuel",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20250822_000",
+    "date": "2025-08-22",
+    "home_team": "New Jersey Devils",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 2.9574932783628576,
+    "away_h2h_odds": 1.5259509496304458,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.9538140618956645,
+        "away": 1.42
+      },
+      "FanDuel": {
+        "home": 2.54,
+        "away": 1.48
+      },
+      "BetMGM": {
+        "home": 2.83,
+        "away": 1.4
+      },
+      "Caesars": {
+        "home": 2.71,
+        "away": 1.43
+      },
+      "PointsBet": {
+        "home": 2.51,
+        "away": 1.53
+      },
+      "Barstool": {
+        "home": 2.56,
+        "away": 1.47
+      },
+      "WynnBET": {
+        "home": 2.54,
+        "away": 1.48
+      },
+      "BetRivers": {
+        "home": 2.8,
+        "away": 1.41
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.6589899895639739,
+    "best_home_book": "DraftKings",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250823_075",
+    "date": "2025-08-23",
+    "home_team": "Edmonton Oilers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.451330355559407,
+    "away_h2h_odds": 1.7173928610380036,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.25,
+        "away": 1.61
+      },
+      "FanDuel": {
+        "home": 2.31,
+        "away": 1.58
+      },
+      "BetMGM": {
+        "home": 2.13,
+        "away": 1.67
+      },
+      "Caesars": {
+        "home": 2.26,
+        "away": 1.6
+      },
+      "PointsBet": {
+        "home": 2.45,
+        "away": 1.55
+      },
+      "Barstool": {
+        "home": 2.18,
+        "away": 1.72
+      },
+      "WynnBET": {
+        "home": 2.19,
+        "away": 1.71
+      },
+      "BetRivers": {
+        "home": 2.32,
+        "away": 1.6
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9876893702641443,
+    "best_home_book": "PointsBet",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250826_003",
+    "date": "2025-08-26",
+    "home_team": "Florida Panthers",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.8467435434696984,
+    "away_h2h_odds": 2.2665143712234146,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.64,
+        "away": 2.2
+      },
+      "FanDuel": {
+        "home": 1.85,
+        "away": 1.91
+      },
+      "BetMGM": {
+        "home": 1.61,
+        "away": 2.27
+      },
+      "Caesars": {
+        "home": 1.71,
+        "away": 2.16
+      },
+      "PointsBet": {
+        "home": 1.65,
+        "away": 2.18
+      },
+      "Barstool": {
+        "home": 1.72,
+        "away": 2.07
+      },
+      "WynnBET": {
+        "home": 1.68,
+        "away": 2.14
+      },
+      "BetRivers": {
+        "home": 1.68,
+        "away": 2.13
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.7604747391682496,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250828_147",
+    "date": "2025-08-28",
+    "home_team": "New York Rangers",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.6967064136764016,
+    "away_h2h_odds": 2.7110010087332297,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.45,
+        "away": 2.71
+      },
+      "FanDuel": {
+        "home": 1.54,
+        "away": 2.5
+      },
+      "BetMGM": {
+        "home": 1.6,
+        "away": 2.29
+      },
+      "Caesars": {
+        "home": 1.7,
+        "away": 2.25
+      },
+      "PointsBet": {
+        "home": 1.58,
+        "away": 2.4
+      },
+      "Barstool": {
+        "home": 1.57,
+        "away": 2.36
+      },
+      "WynnBET": {
+        "home": 1.48,
+        "away": 2.61
+      },
+      "BetRivers": {
+        "home": 1.57,
+        "away": 2.37
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.3574892383903885,
+    "best_home_book": "Caesars",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250831_134",
+    "date": "2025-08-31",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.534574109916897,
+    "away_h2h_odds": 3.0374328970709317,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.49,
+        "away": 2.53
+      },
+      "FanDuel": {
+        "home": 1.48,
+        "away": 2.73
+      },
+      "BetMGM": {
+        "home": 1.53,
+        "away": 2.41
+      },
+      "Caesars": {
+        "home": 1.47,
+        "away": 2.76
+      },
+      "PointsBet": {
+        "home": 1.47,
+        "away": 2.67
+      },
+      "Barstool": {
+        "home": 1.43,
+        "away": 2.74
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.77
+      },
+      "BetRivers": {
+        "home": 1.36,
+        "away": 3.04
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.9501036925540172,
+    "best_home_book": "BetMGM",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20250901_042",
+    "date": "2025-09-01",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.4611855927969581,
+    "away_h2h_odds": 3.446134120868134,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.39,
+        "away": 2.93
+      },
+      "FanDuel": {
+        "home": 1.3,
+        "away": 3.45
+      },
+      "BetMGM": {
+        "home": 1.35,
+        "away": 3.18
+      },
+      "Caesars": {
+        "home": 1.35,
+        "away": 3.31
+      },
+      "PointsBet": {
+        "home": 1.36,
+        "away": 3.05
+      },
+      "Barstool": {
+        "home": 1.3,
+        "away": 3.42
+      },
+      "WynnBET": {
+        "home": 1.46,
+        "away": 2.88
+      },
+      "BetRivers": {
+        "home": 1.32,
+        "away": 3.3
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.6108308011125514,
+    "best_home_book": "WynnBET",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250904_080",
+    "date": "2025-09-04",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.5350325909611664,
+    "away_h2h_odds": 3.2796004700457075,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.4,
+        "away": 2.98
+      },
+      "FanDuel": {
+        "home": 1.34,
+        "away": 3.28
+      },
+      "BetMGM": {
+        "home": 1.42,
+        "away": 2.9
+      },
+      "Caesars": {
+        "home": 1.36,
+        "away": 3.16
+      },
+      "PointsBet": {
+        "home": 1.4,
+        "away": 2.97
+      },
+      "Barstool": {
+        "home": 1.4,
+        "away": 3.1
+      },
+      "WynnBET": {
+        "home": 1.42,
+        "away": 2.9
+      },
+      "BetRivers": {
+        "home": 1.54,
+        "away": 2.6
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.562352791199231,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250907_103",
+    "date": "2025-09-07",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 2.177653151644254,
+    "away_h2h_odds": 1.8015959327733282,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.16,
+        "away": 1.65
+      },
+      "FanDuel": {
+        "home": 2.18,
+        "away": 1.64
+      },
+      "BetMGM": {
+        "home": 1.94,
+        "away": 1.8
+      },
+      "Caesars": {
+        "home": 2.04,
+        "away": 1.72
+      },
+      "PointsBet": {
+        "home": 1.96,
+        "away": 1.79
+      },
+      "Barstool": {
+        "home": 2.16,
+        "away": 1.65
+      },
+      "WynnBET": {
+        "home": 2.06,
+        "away": 1.71
+      },
+      "BetRivers": {
+        "home": 2.18,
+        "away": 1.68
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20250911_026",
+    "date": "2025-09-11",
+    "home_team": "Florida Panthers",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.7937123130495938,
+    "away_h2h_odds": 2.204849866971649,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.75,
+        "away": 2.04
+      },
+      "FanDuel": {
+        "home": 1.74,
+        "away": 2.06
+      },
+      "BetMGM": {
+        "home": 1.79,
+        "away": 2.08
+      },
+      "Caesars": {
+        "home": 1.76,
+        "away": 2.02
+      },
+      "PointsBet": {
+        "home": 1.72,
+        "away": 2.08
+      },
+      "Barstool": {
+        "home": 1.64,
+        "away": 2.2
+      },
+      "WynnBET": {
+        "home": 1.66,
+        "away": 2.17
+      },
+      "BetRivers": {
+        "home": 1.69,
+        "away": 2.13
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250912_095",
+    "date": "2025-09-12",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.0640766949631764,
+    "away_h2h_odds": 1.9549099247607222,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.88,
+        "away": 1.88
+      },
+      "FanDuel": {
+        "home": 1.92,
+        "away": 1.84
+      },
+      "BetMGM": {
+        "home": 1.88,
+        "away": 1.88
+      },
+      "Caesars": {
+        "home": 1.91,
+        "away": 1.91
+      },
+      "PointsBet": {
+        "home": 1.81,
+        "away": 1.95
+      },
+      "Barstool": {
+        "home": 1.98,
+        "away": 1.79
+      },
+      "WynnBET": {
+        "home": 1.81,
+        "away": 1.95
+      },
+      "BetRivers": {
+        "home": 2.06,
+        "away": 1.72
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 4,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 0.4005337228027539,
+    "best_home_book": "BetRivers",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20250913_107",
+    "date": "2025-09-13",
+    "home_team": "Dallas Stars",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.099596849438163,
+    "away_h2h_odds": 2.0451024957713675,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.97,
+        "away": 1.8
+      },
+      "FanDuel": {
+        "home": 2.1,
+        "away": 1.7
+      },
+      "BetMGM": {
+        "home": 2.02,
+        "away": 1.75
+      },
+      "Caesars": {
+        "home": 2.0,
+        "away": 1.77
+      },
+      "PointsBet": {
+        "home": 1.98,
+        "away": 1.79
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.05
+      },
+      "WynnBET": {
+        "home": 1.99,
+        "away": 1.78
+      },
+      "BetRivers": {
+        "home": 1.84,
+        "away": 1.92
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 3.599571386585443,
+    "best_home_book": "FanDuel",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20250915_120",
+    "date": "2025-09-15",
+    "home_team": "Boston Bruins",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.4803545534301386,
+    "away_h2h_odds": 2.9758393983892923,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.42,
+        "away": 2.73
+      },
+      "FanDuel": {
+        "home": 1.41,
+        "away": 2.77
+      },
+      "BetMGM": {
+        "home": 1.43,
+        "away": 2.71
+      },
+      "Caesars": {
+        "home": 1.46,
+        "away": 2.8
+      },
+      "PointsBet": {
+        "home": 1.42,
+        "away": 2.98
+      },
+      "Barstool": {
+        "home": 1.48,
+        "away": 2.61
+      },
+      "WynnBET": {
+        "home": 1.44,
+        "away": 2.66
+      },
+      "BetRivers": {
+        "home": 1.38,
+        "away": 2.9
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250917_015",
+    "date": "2025-09-17",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.2236261022078905,
+    "away_h2h_odds": 1.734884353039822,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.07,
+        "away": 1.73
+      },
+      "FanDuel": {
+        "home": 2.18,
+        "away": 1.66
+      },
+      "BetMGM": {
+        "home": 2.08,
+        "away": 1.72
+      },
+      "Caesars": {
+        "home": 2.21,
+        "away": 1.64
+      },
+      "PointsBet": {
+        "home": 2.07,
+        "away": 1.73
+      },
+      "Barstool": {
+        "home": 2.18,
+        "away": 1.72
+      },
+      "WynnBET": {
+        "home": 2.22,
+        "away": 1.64
+      },
+      "BetRivers": {
+        "home": 2.2,
+        "away": 1.68
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250919_023",
+    "date": "2025-09-19",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 2.0129457132133783,
+    "away_h2h_odds": 2.023503728856108,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.86,
+        "away": 2.02
+      },
+      "FanDuel": {
+        "home": 2.01,
+        "away": 1.79
+      },
+      "BetMGM": {
+        "home": 1.89,
+        "away": 1.9
+      },
+      "Caesars": {
+        "home": 1.93,
+        "away": 1.86
+      },
+      "PointsBet": {
+        "home": 1.81,
+        "away": 1.99
+      },
+      "Barstool": {
+        "home": 1.94,
+        "away": 1.94
+      },
+      "WynnBET": {
+        "home": 1.89,
+        "away": 1.9
+      },
+      "BetRivers": {
+        "home": 1.88,
+        "away": 1.91
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9105456448838645,
+    "best_home_book": "FanDuel",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20250919_030",
+    "date": "2025-09-19",
+    "home_team": "New York Rangers",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.8527480884326564,
+    "away_h2h_odds": 2.2190592487379743,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.81,
+        "away": 2.0
+      },
+      "FanDuel": {
+        "home": 1.61,
+        "away": 2.22
+      },
+      "BetMGM": {
+        "home": 1.75,
+        "away": 2.04
+      },
+      "Caesars": {
+        "home": 1.66,
+        "away": 2.13
+      },
+      "PointsBet": {
+        "home": 1.85,
+        "away": 1.87
+      },
+      "Barstool": {
+        "home": 1.71,
+        "away": 2.11
+      },
+      "WynnBET": {
+        "home": 1.74,
+        "away": 2.01
+      },
+      "BetRivers": {
+        "home": 1.67,
+        "away": 2.1
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9713240527470468,
+    "best_home_book": "PointsBet",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20250924_005",
+    "date": "2025-09-24",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 1.473044587435987,
+    "away_h2h_odds": 3.1416814585726183,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.37,
+        "away": 3.07
+      },
+      "FanDuel": {
+        "home": 1.39,
+        "away": 3.05
+      },
+      "BetMGM": {
+        "home": 1.4,
+        "away": 2.95
+      },
+      "Caesars": {
+        "home": 1.38,
+        "away": 3.01
+      },
+      "PointsBet": {
+        "home": 1.42,
+        "away": 3.14
+      },
+      "Barstool": {
+        "home": 1.39,
+        "away": 2.98
+      },
+      "WynnBET": {
+        "home": 1.47,
+        "away": 2.66
+      },
+      "BetRivers": {
+        "home": 1.36,
+        "away": 3.11
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.2841083492080232,
+    "best_home_book": "WynnBET",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20250927_149",
+    "date": "2025-09-27",
+    "home_team": "Florida Panthers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.411819324655409,
+    "away_h2h_odds": 1.7044410940559356,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.2,
+        "away": 1.69
+      },
+      "FanDuel": {
+        "home": 2.41,
+        "away": 1.57
+      },
+      "BetMGM": {
+        "home": 2.22,
+        "away": 1.6
+      },
+      "Caesars": {
+        "home": 2.17,
+        "away": 1.63
+      },
+      "PointsBet": {
+        "home": 2.21,
+        "away": 1.65
+      },
+      "Barstool": {
+        "home": 2.05,
+        "away": 1.7
+      },
+      "WynnBET": {
+        "home": 2.09,
+        "away": 1.68
+      },
+      "BetRivers": {
+        "home": 2.06,
+        "away": 1.7
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251001_010",
+    "date": "2025-10-01",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 2.049089606727091,
+    "away_h2h_odds": 1.9731591819481795,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.05,
+        "away": 1.74
+      },
+      "FanDuel": {
+        "home": 1.85,
+        "away": 1.92
+      },
+      "BetMGM": {
+        "home": 1.82,
+        "away": 1.95
+      },
+      "Caesars": {
+        "home": 1.92,
+        "away": 1.91
+      },
+      "PointsBet": {
+        "home": 1.94,
+        "away": 1.92
+      },
+      "Barstool": {
+        "home": 1.8,
+        "away": 1.97
+      },
+      "WynnBET": {
+        "home": 1.85,
+        "away": 1.92
+      },
+      "BetRivers": {
+        "home": 1.87,
+        "away": 1.9
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.5203851022792527,
+    "best_home_book": "DraftKings",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251001_074",
+    "date": "2025-10-01",
+    "home_team": "New Jersey Devils",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.42437317533206,
+    "away_h2h_odds": 3.1682790826986493,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.42,
+        "away": 2.87
+      },
+      "FanDuel": {
+        "home": 1.37,
+        "away": 3.11
+      },
+      "BetMGM": {
+        "home": 1.36,
+        "away": 3.17
+      },
+      "Caesars": {
+        "home": 1.4,
+        "away": 2.95
+      },
+      "PointsBet": {
+        "home": 1.4,
+        "away": 2.95
+      },
+      "Barstool": {
+        "home": 1.39,
+        "away": 3.02
+      },
+      "WynnBET": {
+        "home": 1.39,
+        "away": 3.01
+      },
+      "BetRivers": {
+        "home": 1.38,
+        "away": 3.08
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251001_093",
+    "date": "2025-10-01",
+    "home_team": "New Jersey Devils",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.5922250147755723,
+    "away_h2h_odds": 2.573964768860728,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.58,
+        "away": 2.37
+      },
+      "FanDuel": {
+        "home": 1.59,
+        "away": 2.35
+      },
+      "BetMGM": {
+        "home": 1.51,
+        "away": 2.55
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.41
+      },
+      "PointsBet": {
+        "home": 1.59,
+        "away": 2.33
+      },
+      "Barstool": {
+        "home": 1.5,
+        "away": 2.57
+      },
+      "WynnBET": {
+        "home": 1.58,
+        "away": 2.47
+      },
+      "BetRivers": {
+        "home": 1.57,
+        "away": 2.38
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251001_139",
+    "date": "2025-10-01",
+    "home_team": "New York Rangers",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.6628115445565348,
+    "away_h2h_odds": 2.422494622998309,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.6,
+        "away": 2.25
+      },
+      "FanDuel": {
+        "home": 1.63,
+        "away": 2.19
+      },
+      "BetMGM": {
+        "home": 1.53,
+        "away": 2.4
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.33
+      },
+      "PointsBet": {
+        "home": 1.59,
+        "away": 2.26
+      },
+      "Barstool": {
+        "home": 1.66,
+        "away": 2.28
+      },
+      "WynnBET": {
+        "home": 1.52,
+        "away": 2.42
+      },
+      "BetRivers": {
+        "home": 1.59,
+        "away": 2.27
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20251006_117",
+    "date": "2025-10-06",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.9033287738770996,
+    "away_h2h_odds": 2.0736888096336235,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.83,
+        "away": 1.93
+      },
+      "FanDuel": {
+        "home": 1.75,
+        "away": 2.07
+      },
+      "BetMGM": {
+        "home": 1.9,
+        "away": 1.81
+      },
+      "Caesars": {
+        "home": 1.81,
+        "away": 1.9
+      },
+      "PointsBet": {
+        "home": 1.81,
+        "away": 1.91
+      },
+      "Barstool": {
+        "home": 1.8,
+        "away": 1.91
+      },
+      "WynnBET": {
+        "home": 1.79,
+        "away": 1.92
+      },
+      "BetRivers": {
+        "home": 1.83,
+        "away": 1.96
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251009_109",
+    "date": "2025-10-09",
+    "home_team": "New York Rangers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.384866916743169,
+    "away_h2h_odds": 1.8589267627394663,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.25,
+        "away": 1.64
+      },
+      "FanDuel": {
+        "home": 2.1,
+        "away": 1.72
+      },
+      "BetMGM": {
+        "home": 2.03,
+        "away": 1.86
+      },
+      "Caesars": {
+        "home": 2.12,
+        "away": 1.71
+      },
+      "PointsBet": {
+        "home": 2.09,
+        "away": 1.73
+      },
+      "Barstool": {
+        "home": 2.38,
+        "away": 1.57
+      },
+      "WynnBET": {
+        "home": 2.09,
+        "away": 1.73
+      },
+      "BetRivers": {
+        "home": 2.01,
+        "away": 1.79
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 4.465326826310245,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251011_039",
+    "date": "2025-10-11",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 2.040562132454882,
+    "away_h2h_odds": 1.9136904798187717,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.92,
+        "away": 1.91
+      },
+      "FanDuel": {
+        "home": 1.98,
+        "away": 1.79
+      },
+      "BetMGM": {
+        "home": 2.0,
+        "away": 1.77
+      },
+      "Caesars": {
+        "home": 1.99,
+        "away": 1.78
+      },
+      "PointsBet": {
+        "home": 2.04,
+        "away": 1.74
+      },
+      "Barstool": {
+        "home": 1.96,
+        "away": 1.8
+      },
+      "WynnBET": {
+        "home": 2.0,
+        "away": 1.77
+      },
+      "BetRivers": {
+        "home": 1.96,
+        "away": 1.8
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251013_008",
+    "date": "2025-10-13",
+    "home_team": "New York Rangers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.6090796116002644,
+    "away_h2h_odds": 2.831628151012155,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.45,
+        "away": 2.77
+      },
+      "FanDuel": {
+        "home": 1.45,
+        "away": 2.83
+      },
+      "BetMGM": {
+        "home": 1.49,
+        "away": 2.61
+      },
+      "Caesars": {
+        "home": 1.58,
+        "away": 2.37
+      },
+      "PointsBet": {
+        "home": 1.44,
+        "away": 2.8
+      },
+      "Barstool": {
+        "home": 1.54,
+        "away": 2.49
+      },
+      "WynnBET": {
+        "home": 1.51,
+        "away": 2.57
+      },
+      "BetRivers": {
+        "home": 1.61,
+        "away": 2.46
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 2.603354442459027,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251013_013",
+    "date": "2025-10-13",
+    "home_team": "Dallas Stars",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.9759319903542445,
+    "away_h2h_odds": 2.0174598341027608,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.9,
+        "away": 1.84
+      },
+      "FanDuel": {
+        "home": 1.97,
+        "away": 1.78
+      },
+      "BetMGM": {
+        "home": 1.94,
+        "away": 1.81
+      },
+      "Caesars": {
+        "home": 1.84,
+        "away": 2.017053952781142
+      },
+      "PointsBet": {
+        "home": 1.98,
+        "away": 1.77
+      },
+      "Barstool": {
+        "home": 1.91,
+        "away": 1.83
+      },
+      "WynnBET": {
+        "home": 1.85,
+        "away": 1.89
+      },
+      "BetRivers": {
+        "home": 1.84,
+        "away": 1.9
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20251016_132",
+    "date": "2025-10-16",
+    "home_team": "New York Rangers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.7390505797162046,
+    "away_h2h_odds": 1.5875446617845952,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.66,
+        "away": 1.47
+      },
+      "FanDuel": {
+        "home": 2.47,
+        "away": 1.5
+      },
+      "BetMGM": {
+        "home": 2.35,
+        "away": 1.59
+      },
+      "Caesars": {
+        "home": 2.57,
+        "away": 1.46
+      },
+      "PointsBet": {
+        "home": 2.6,
+        "away": 1.45
+      },
+      "Barstool": {
+        "home": 2.51,
+        "away": 1.48
+      },
+      "WynnBET": {
+        "home": 2.6,
+        "away": 1.45
+      },
+      "BetRivers": {
+        "home": 2.74,
+        "away": 1.44
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.5031643468019542,
+    "best_home_book": "BetRivers",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251017_118",
+    "date": "2025-10-17",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.4182416890960778,
+    "away_h2h_odds": 3.1916842700428383,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.35,
+        "away": 3.1
+      },
+      "FanDuel": {
+        "home": 1.34,
+        "away": 3.14
+      },
+      "BetMGM": {
+        "home": 1.39,
+        "away": 2.91
+      },
+      "Caesars": {
+        "home": 1.37,
+        "away": 2.99
+      },
+      "PointsBet": {
+        "home": 1.42,
+        "away": 2.78
+      },
+      "Barstool": {
+        "home": 1.41,
+        "away": 2.82
+      },
+      "WynnBET": {
+        "home": 1.37,
+        "away": 3.0
+      },
+      "BetRivers": {
+        "home": 1.33,
+        "away": 3.19
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20251017_148",
+    "date": "2025-10-17",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.883414564949643,
+    "away_h2h_odds": 2.150963239465453,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.81,
+        "away": 1.96
+      },
+      "FanDuel": {
+        "home": 1.79,
+        "away": 1.99
+      },
+      "BetMGM": {
+        "home": 1.88,
+        "away": 1.97
+      },
+      "Caesars": {
+        "home": 1.83,
+        "away": 2.01
+      },
+      "PointsBet": {
+        "home": 1.75,
+        "away": 2.04
+      },
+      "Barstool": {
+        "home": 1.72,
+        "away": 2.08
+      },
+      "WynnBET": {
+        "home": 1.74,
+        "away": 2.15
+      },
+      "BetRivers": {
+        "home": 1.77,
+        "away": 2.02
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 4,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 0.41586807876654586,
+    "best_home_book": "BetMGM",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20251019_112",
+    "date": "2025-10-19",
+    "home_team": "Boston Bruins",
+    "away_team": "Carolina Hurricanes",
+    "home_h2h_odds": 1.6005521294279288,
+    "away_h2h_odds": 2.8218356053547162,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.48,
+        "away": 2.61
+      },
+      "FanDuel": {
+        "home": 1.45,
+        "away": 2.82
+      },
+      "BetMGM": {
+        "home": 1.48,
+        "away": 2.61
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.4
+      },
+      "PointsBet": {
+        "home": 1.52,
+        "away": 2.51
+      },
+      "Barstool": {
+        "home": 1.53,
+        "away": 2.6
+      },
+      "WynnBET": {
+        "home": 1.6,
+        "away": 2.4
+      },
+      "BetRivers": {
+        "home": 1.46,
+        "away": 2.68
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.12797379848062,
+    "best_home_book": "WynnBET",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251022_032",
+    "date": "2025-10-22",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 1.7954822578508203,
+    "away_h2h_odds": 2.389049363540583,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.65,
+        "away": 2.28
+      },
+      "FanDuel": {
+        "home": 1.61,
+        "away": 2.26
+      },
+      "BetMGM": {
+        "home": 1.58,
+        "away": 2.34
+      },
+      "Caesars": {
+        "home": 1.7,
+        "away": 2.11
+      },
+      "PointsBet": {
+        "home": 1.69,
+        "away": 2.26
+      },
+      "Barstool": {
+        "home": 1.55,
+        "away": 2.39
+      },
+      "WynnBET": {
+        "home": 1.8,
+        "away": 2.09
+      },
+      "BetRivers": {
+        "home": 1.64,
+        "away": 2.2
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.5083840551934022,
+    "best_home_book": "WynnBET",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251024_130",
+    "date": "2025-10-24",
+    "home_team": "New York Rangers",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.7876051676803344,
+    "away_h2h_odds": 2.3177729079876888,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.61,
+        "away": 2.32
+      },
+      "FanDuel": {
+        "home": 1.64,
+        "away": 2.18
+      },
+      "BetMGM": {
+        "home": 1.79,
+        "away": 2.07
+      },
+      "Caesars": {
+        "home": 1.67,
+        "away": 2.12
+      },
+      "PointsBet": {
+        "home": 1.62,
+        "away": 2.21
+      },
+      "Barstool": {
+        "home": 1.64,
+        "away": 2.18
+      },
+      "WynnBET": {
+        "home": 1.65,
+        "away": 2.15
+      },
+      "BetRivers": {
+        "home": 1.64,
+        "away": 2.18
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9228078744996093,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251024_141",
+    "date": "2025-10-24",
+    "home_team": "Dallas Stars",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 2.123957300768421,
+    "away_h2h_odds": 1.8052121774297718,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.07,
+        "away": 1.71
+      },
+      "FanDuel": {
+        "home": 2.03,
+        "away": 1.81
+      },
+      "BetMGM": {
+        "home": 2.08,
+        "away": 1.78
+      },
+      "Caesars": {
+        "home": 1.97,
+        "away": 1.79
+      },
+      "PointsBet": {
+        "home": 2.05,
+        "away": 1.73
+      },
+      "Barstool": {
+        "home": 2.09,
+        "away": 1.7
+      },
+      "WynnBET": {
+        "home": 2.03,
+        "away": 1.74
+      },
+      "BetRivers": {
+        "home": 2.12,
+        "away": 1.68
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetRivers",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251025_063",
+    "date": "2025-10-25",
+    "home_team": "New Jersey Devils",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.796981664137973,
+    "away_h2h_odds": 2.3472379824931644,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.63,
+        "away": 2.23
+      },
+      "FanDuel": {
+        "home": 1.57,
+        "away": 2.35
+      },
+      "BetMGM": {
+        "home": 1.7953232227671154,
+        "away": 2.18
+      },
+      "Caesars": {
+        "home": 1.71,
+        "away": 2.1
+      },
+      "PointsBet": {
+        "home": 1.6,
+        "away": 2.29
+      },
+      "Barstool": {
+        "home": 1.64,
+        "away": 2.21
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.24
+      },
+      "BetRivers": {
+        "home": 1.64,
+        "away": 2.22
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.7789590215667728,
+    "best_home_book": "BetMGM",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251027_049",
+    "date": "2025-10-27",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 1.7478650247186351,
+    "away_h2h_odds": 2.4336741742383157,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.71,
+        "away": 2.1
+      },
+      "FanDuel": {
+        "home": 1.6,
+        "away": 2.28
+      },
+      "BetMGM": {
+        "home": 1.53,
+        "away": 2.43
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.37
+      },
+      "PointsBet": {
+        "home": 1.73,
+        "away": 2.17
+      },
+      "Barstool": {
+        "home": 1.6,
+        "away": 2.29
+      },
+      "WynnBET": {
+        "home": 1.63,
+        "away": 2.23
+      },
+      "BetRivers": {
+        "home": 1.75,
+        "away": 2.08
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.7265118971792726,
+    "best_home_book": "BetRivers",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251028_041",
+    "date": "2025-10-28",
+    "home_team": "New York Rangers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 1.67789838527832,
+    "away_h2h_odds": 2.3830067756676474,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.53,
+        "away": 2.38
+      },
+      "FanDuel": {
+        "home": 1.64,
+        "away": 2.24
+      },
+      "BetMGM": {
+        "home": 1.68,
+        "away": 2.19
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.3
+      },
+      "PointsBet": {
+        "home": 1.53,
+        "away": 2.37
+      },
+      "Barstool": {
+        "home": 1.64,
+        "away": 2.15
+      },
+      "WynnBET": {
+        "home": 1.67,
+        "away": 2.09
+      },
+      "BetRivers": {
+        "home": 1.6,
+        "away": 2.21
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251101_014",
+    "date": "2025-11-01",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 2.353289359796189,
+    "away_h2h_odds": 1.6657526615126765,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.09,
+        "away": 1.67
+      },
+      "FanDuel": {
+        "home": 2.35,
+        "away": 1.53
+      },
+      "BetMGM": {
+        "home": 2.25,
+        "away": 1.58
+      },
+      "Caesars": {
+        "home": 2.27,
+        "away": 1.57
+      },
+      "PointsBet": {
+        "home": 2.34,
+        "away": 1.53
+      },
+      "Barstool": {
+        "home": 2.35,
+        "away": 1.53
+      },
+      "WynnBET": {
+        "home": 2.28,
+        "away": 1.56
+      },
+      "BetRivers": {
+        "home": 2.21,
+        "away": 1.6
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 4,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "FanDuel",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251110_043",
+    "date": "2025-11-10",
+    "home_team": "Dallas Stars",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.9701729498696765,
+    "away_h2h_odds": 2.0639010843791104,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.97,
+        "away": 1.82
+      },
+      "FanDuel": {
+        "home": 1.92,
+        "away": 1.86
+      },
+      "BetMGM": {
+        "home": 1.92,
+        "away": 1.86
+      },
+      "Caesars": {
+        "home": 1.83,
+        "away": 1.95
+      },
+      "PointsBet": {
+        "home": 1.74,
+        "away": 2.06
+      },
+      "Barstool": {
+        "home": 1.92,
+        "away": 1.92
+      },
+      "WynnBET": {
+        "home": 1.8,
+        "away": 1.98
+      },
+      "BetRivers": {
+        "home": 1.95,
+        "away": 1.83
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 0.7974086030282601,
+    "best_home_book": "DraftKings",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20251111_047",
+    "date": "2025-11-11",
+    "home_team": "New Jersey Devils",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.7878478560347821,
+    "away_h2h_odds": 2.022253817346794,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.72,
+        "away": 2.01
+      },
+      "FanDuel": {
+        "home": 1.77,
+        "away": 2.02
+      },
+      "BetMGM": {
+        "home": 1.75,
+        "away": 1.97
+      },
+      "Caesars": {
+        "home": 1.77,
+        "away": 2.02
+      },
+      "PointsBet": {
+        "home": 1.79,
+        "away": 1.92
+      },
+      "Barstool": {
+        "home": 1.75,
+        "away": 1.97
+      },
+      "WynnBET": {
+        "home": 1.71,
+        "away": 2.02
+      },
+      "BetRivers": {
+        "home": 1.75,
+        "away": 1.97
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "PointsBet",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20251113_089",
+    "date": "2025-11-13",
+    "home_team": "Dallas Stars",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.7262636740644517,
+    "away_h2h_odds": 2.42094880698978,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.51,
+        "away": 2.42
+      },
+      "FanDuel": {
+        "home": 1.7,
+        "away": 2.05
+      },
+      "BetMGM": {
+        "home": 1.61,
+        "away": 2.25
+      },
+      "Caesars": {
+        "home": 1.55,
+        "away": 2.32
+      },
+      "PointsBet": {
+        "home": 1.73,
+        "away": 2.13
+      },
+      "Barstool": {
+        "home": 1.51,
+        "away": 2.41
+      },
+      "WynnBET": {
+        "home": 1.55,
+        "away": 2.31
+      },
+      "BetRivers": {
+        "home": 1.63,
+        "away": 2.23
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.7712047879872896,
+    "best_home_book": "PointsBet",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251113_101",
+    "date": "2025-11-13",
+    "home_team": "New Jersey Devils",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 2.3042535562840736,
+    "away_h2h_odds": 1.7631881783289358,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.16,
+        "away": 1.76
+      },
+      "FanDuel": {
+        "home": 2.25,
+        "away": 1.64
+      },
+      "BetMGM": {
+        "home": 2.3,
+        "away": 1.62
+      },
+      "Caesars": {
+        "home": 2.17,
+        "away": 1.69
+      },
+      "PointsBet": {
+        "home": 2.28,
+        "away": 1.63
+      },
+      "Barstool": {
+        "home": 2.22,
+        "away": 1.66
+      },
+      "WynnBET": {
+        "home": 2.22,
+        "away": 1.66
+      },
+      "BetRivers": {
+        "home": 2.14,
+        "away": 1.71
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251117_099",
+    "date": "2025-11-17",
+    "home_team": "Florida Panthers",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 2.4580320167102476,
+    "away_h2h_odds": 1.5668528097774255,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.41,
+        "away": 1.53
+      },
+      "FanDuel": {
+        "home": 2.39,
+        "away": 1.53
+      },
+      "BetMGM": {
+        "home": 2.32,
+        "away": 1.57
+      },
+      "Caesars": {
+        "home": 2.35,
+        "away": 1.55
+      },
+      "PointsBet": {
+        "home": 2.4,
+        "away": 1.53
+      },
+      "Barstool": {
+        "home": 2.46,
+        "away": 1.51
+      },
+      "WynnBET": {
+        "home": 2.43,
+        "away": 1.52
+      },
+      "BetRivers": {
+        "home": 2.35,
+        "away": 1.55
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251119_050",
+    "date": "2025-11-19",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.814102774191238,
+    "away_h2h_odds": 2.0559936204030778,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.79,
+        "away": 2.0
+      },
+      "FanDuel": {
+        "home": 1.77,
+        "away": 2.03
+      },
+      "BetMGM": {
+        "home": 1.81,
+        "away": 2.05
+      },
+      "Caesars": {
+        "home": 1.75,
+        "away": 2.06
+      },
+      "PointsBet": {
+        "home": 1.79,
+        "away": 2.0
+      },
+      "Barstool": {
+        "home": 1.8,
+        "away": 2.0
+      },
+      "WynnBET": {
+        "home": 1.79,
+        "away": 2.01
+      },
+      "BetRivers": {
+        "home": 1.79,
+        "away": 2.0
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20251122_061",
+    "date": "2025-11-22",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.4856641554140864,
+    "away_h2h_odds": 3.085874659682593,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.42,
+        "away": 3.03
+      },
+      "FanDuel": {
+        "home": 1.45,
+        "away": 2.77
+      },
+      "BetMGM": {
+        "home": 1.41,
+        "away": 2.94
+      },
+      "Caesars": {
+        "home": 1.4,
+        "away": 2.96
+      },
+      "PointsBet": {
+        "home": 1.4,
+        "away": 3.09
+      },
+      "Barstool": {
+        "home": 1.39,
+        "away": 3.0
+      },
+      "WynnBET": {
+        "home": 1.46,
+        "away": 2.73
+      },
+      "BetRivers": {
+        "home": 1.49,
+        "away": 2.65
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.28512401232048123,
+    "best_home_book": "BetRivers",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20251123_097",
+    "date": "2025-11-23",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 1.7788700808327662,
+    "away_h2h_odds": 2.175789975845795,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.78,
+        "away": 2.02
+      },
+      "FanDuel": {
+        "home": 1.68,
+        "away": 2.15
+      },
+      "BetMGM": {
+        "home": 1.72,
+        "away": 2.1
+      },
+      "Caesars": {
+        "home": 1.76,
+        "away": 2.04
+      },
+      "PointsBet": {
+        "home": 1.68,
+        "away": 2.16
+      },
+      "Barstool": {
+        "home": 1.67,
+        "away": 2.18
+      },
+      "WynnBET": {
+        "home": 1.73,
+        "away": 2.09
+      },
+      "BetRivers": {
+        "home": 1.72,
+        "away": 2.1
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251127_082",
+    "date": "2025-11-27",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.7387093311552813,
+    "away_h2h_odds": 2.487020819106607,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.74,
+        "away": 2.1
+      },
+      "FanDuel": {
+        "home": 1.58,
+        "away": 2.4
+      },
+      "BetMGM": {
+        "home": 1.59,
+        "away": 2.49
+      },
+      "Caesars": {
+        "home": 1.62,
+        "away": 2.31
+      },
+      "PointsBet": {
+        "home": 1.62,
+        "away": 2.3
+      },
+      "Barstool": {
+        "home": 1.67,
+        "away": 2.22
+      },
+      "WynnBET": {
+        "home": 1.66,
+        "away": 2.24
+      },
+      "BetRivers": {
+        "home": 1.58,
+        "away": 2.45
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 2.3303938300489158,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251127_131",
+    "date": "2025-11-27",
+    "home_team": "Florida Panthers",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.965317769009284,
+    "away_h2h_odds": 1.9535162869607074,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.97,
+        "away": 1.76
+      },
+      "FanDuel": {
+        "home": 1.87,
+        "away": 1.85
+      },
+      "BetMGM": {
+        "home": 1.89,
+        "away": 1.83
+      },
+      "Caesars": {
+        "home": 1.86,
+        "away": 1.86
+      },
+      "PointsBet": {
+        "home": 1.93,
+        "away": 1.79
+      },
+      "Barstool": {
+        "home": 1.88,
+        "away": 1.84
+      },
+      "WynnBET": {
+        "home": 1.87,
+        "away": 1.84
+      },
+      "BetRivers": {
+        "home": 1.77,
+        "away": 1.95
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20251128_020",
+    "date": "2025-11-28",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "New York Rangers",
+    "home_h2h_odds": 2.637423903912641,
+    "away_h2h_odds": 1.511474558707596,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.64,
+        "away": 1.43
+      },
+      "FanDuel": {
+        "home": 2.41,
+        "away": 1.51
+      },
+      "BetMGM": {
+        "home": 2.48,
+        "away": 1.48
+      },
+      "Caesars": {
+        "home": 2.63,
+        "away": 1.43
+      },
+      "PointsBet": {
+        "home": 2.48,
+        "away": 1.51
+      },
+      "Barstool": {
+        "home": 2.54,
+        "away": 1.5
+      },
+      "WynnBET": {
+        "home": 2.52,
+        "away": 1.47
+      },
+      "BetRivers": {
+        "home": 2.44,
+        "away": 1.5
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251130_045",
+    "date": "2025-11-30",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.3086858372832206,
+    "away_h2h_odds": 1.7149329407253122,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.29,
+        "away": 1.61
+      },
+      "FanDuel": {
+        "home": 2.19,
+        "away": 1.71
+      },
+      "BetMGM": {
+        "home": 2.31,
+        "away": 1.65
+      },
+      "Caesars": {
+        "home": 2.19,
+        "away": 1.66
+      },
+      "PointsBet": {
+        "home": 2.27,
+        "away": 1.67
+      },
+      "Barstool": {
+        "home": 2.22,
+        "away": 1.69
+      },
+      "WynnBET": {
+        "home": 2.26,
+        "away": 1.62
+      },
+      "BetRivers": {
+        "home": 2.28,
+        "away": 1.61
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20251205_145",
+    "date": "2025-12-05",
+    "home_team": "Boston Bruins",
+    "away_team": "Carolina Hurricanes",
+    "home_h2h_odds": 1.9206192100927617,
+    "away_h2h_odds": 2.129381001091309,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.72,
+        "away": 2.01
+      },
+      "FanDuel": {
+        "home": 1.84,
+        "away": 1.87
+      },
+      "BetMGM": {
+        "home": 1.72,
+        "away": 2.01
+      },
+      "Caesars": {
+        "home": 1.79,
+        "away": 1.92
+      },
+      "PointsBet": {
+        "home": 1.75,
+        "away": 2.130612498301263
+      },
+      "Barstool": {
+        "home": 1.86,
+        "away": 1.84
+      },
+      "WynnBET": {
+        "home": 1.92,
+        "away": 1.87
+      },
+      "BetRivers": {
+        "home": 1.82,
+        "away": 1.89
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 0,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.9809837789326314,
+    "best_home_book": "WynnBET",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20251206_012",
+    "date": "2025-12-06",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 2.238683450371523,
+    "away_h2h_odds": 1.7882907734198745,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.0,
+        "away": 1.74
+      },
+      "FanDuel": {
+        "home": 2.07,
+        "away": 1.69
+      },
+      "BetMGM": {
+        "home": 1.96,
+        "away": 1.76
+      },
+      "Caesars": {
+        "home": 1.99,
+        "away": 1.74
+      },
+      "PointsBet": {
+        "home": 2.21,
+        "away": 1.6
+      },
+      "Barstool": {
+        "home": 2.24,
+        "away": 1.59
+      },
+      "WynnBET": {
+        "home": 1.93,
+        "away": 1.79
+      },
+      "BetRivers": {
+        "home": 2.01,
+        "away": 1.73
+      }
+    },
+    "home_goals": 6,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "WynnBET"
+  },
+  {
+    "match_id": "hist_20251213_079",
+    "date": "2025-12-13",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.9390060723438527,
+    "away_h2h_odds": 2.06757838716322,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.79,
+        "away": 2.07
+      },
+      "FanDuel": {
+        "home": 1.75,
+        "away": 2.07
+      },
+      "BetMGM": {
+        "home": 1.87,
+        "away": 1.91
+      },
+      "Caesars": {
+        "home": 1.83,
+        "away": 1.96
+      },
+      "PointsBet": {
+        "home": 1.86,
+        "away": 1.92
+      },
+      "Barstool": {
+        "home": 1.94,
+        "away": 1.85
+      },
+      "WynnBET": {
+        "home": 1.84,
+        "away": 1.96
+      },
+      "BetRivers": {
+        "home": 1.81,
+        "away": 1.98
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 0.06146353020155537,
+    "best_home_book": "Barstool",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251213_138",
+    "date": "2025-12-13",
+    "home_team": "Colorado Avalanche",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 2.249788332346488,
+    "away_h2h_odds": 1.704344506712302,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.07,
+        "away": 1.68
+      },
+      "FanDuel": {
+        "home": 2.2,
+        "away": 1.6
+      },
+      "BetMGM": {
+        "home": 2.09,
+        "away": 1.7
+      },
+      "Caesars": {
+        "home": 2.16,
+        "away": 1.62
+      },
+      "PointsBet": {
+        "home": 2.22,
+        "away": 1.59
+      },
+      "Barstool": {
+        "home": 2.25,
+        "away": 1.62
+      },
+      "WynnBET": {
+        "home": 2.12,
+        "away": 1.65
+      },
+      "BetRivers": {
+        "home": 2.16,
+        "away": 1.63
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 5,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "Barstool",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251215_053",
+    "date": "2025-12-15",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 2.1810272947822695,
+    "away_h2h_odds": 1.874171800365577,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.1,
+        "away": 1.7
+      },
+      "FanDuel": {
+        "home": 2.18,
+        "away": 1.7
+      },
+      "BetMGM": {
+        "home": 2.07,
+        "away": 1.73
+      },
+      "Caesars": {
+        "home": 1.89,
+        "away": 1.87
+      },
+      "PointsBet": {
+        "home": 2.01,
+        "away": 1.77
+      },
+      "Barstool": {
+        "home": 2.1,
+        "away": 1.71
+      },
+      "WynnBET": {
+        "home": 2.14,
+        "away": 1.68
+      },
+      "BetRivers": {
+        "home": 2.04,
+        "away": 1.74
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.799486185511733,
+    "best_home_book": "FanDuel",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20251215_108",
+    "date": "2025-12-15",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Tampa Bay Lightning",
+    "home_h2h_odds": 1.8636636657121861,
+    "away_h2h_odds": 2.1362597477668333,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.71,
+        "away": 2.08
+      },
+      "FanDuel": {
+        "home": 1.8,
+        "away": 1.96
+      },
+      "BetMGM": {
+        "home": 1.71,
+        "away": 2.08
+      },
+      "Caesars": {
+        "home": 1.74,
+        "away": 2.03
+      },
+      "PointsBet": {
+        "home": 1.77,
+        "away": 1.99
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.04
+      },
+      "WynnBET": {
+        "home": 1.86,
+        "away": 1.89
+      },
+      "BetRivers": {
+        "home": 1.67,
+        "away": 2.14
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20251216_018",
+    "date": "2025-12-16",
+    "home_team": "Carolina Hurricanes",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.9545823165167648,
+    "away_h2h_odds": 1.9954967627961757,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.8,
+        "away": 2.0
+      },
+      "FanDuel": {
+        "home": 1.9,
+        "away": 1.89
+      },
+      "BetMGM": {
+        "home": 1.81,
+        "away": 1.98
+      },
+      "Caesars": {
+        "home": 1.87,
+        "away": 1.91
+      },
+      "PointsBet": {
+        "home": 1.87,
+        "away": 1.95
+      },
+      "Barstool": {
+        "home": 1.84,
+        "away": 1.95
+      },
+      "WynnBET": {
+        "home": 1.95,
+        "away": 1.83
+      },
+      "BetRivers": {
+        "home": 1.95,
+        "away": 1.84
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251220_009",
+    "date": "2025-12-20",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Vegas Golden Knights",
+    "home_h2h_odds": 2.3080783281411317,
+    "away_h2h_odds": 1.7422200349824781,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.31,
+        "away": 1.58
+      },
+      "FanDuel": {
+        "home": 2.3,
+        "away": 1.59
+      },
+      "BetMGM": {
+        "home": 2.1,
+        "away": 1.7
+      },
+      "Caesars": {
+        "home": 2.17,
+        "away": 1.65
+      },
+      "PointsBet": {
+        "home": 2.12,
+        "away": 1.68
+      },
+      "Barstool": {
+        "home": 2.04,
+        "away": 1.74
+      },
+      "WynnBET": {
+        "home": 2.29,
+        "away": 1.59
+      },
+      "BetRivers": {
+        "home": 2.19,
+        "away": 1.71
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20251220_031",
+    "date": "2025-12-20",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 2.015261023227908,
+    "away_h2h_odds": 2.096831128756535,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.81,
+        "away": 2.1
+      },
+      "FanDuel": {
+        "home": 1.83,
+        "away": 2.03
+      },
+      "BetMGM": {
+        "home": 1.93,
+        "away": 1.93
+      },
+      "Caesars": {
+        "home": 1.92,
+        "away": 1.87
+      },
+      "PointsBet": {
+        "home": 1.86,
+        "away": 1.93
+      },
+      "Barstool": {
+        "home": 2.02,
+        "away": 1.79
+      },
+      "WynnBET": {
+        "home": 1.87,
+        "away": 1.92
+      },
+      "BetRivers": {
+        "home": 2.0,
+        "away": 1.88
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": true,
+    "arb_roi": 2.7618518722829055,
+    "best_home_book": "Barstool",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20251225_051",
+    "date": "2025-12-25",
+    "home_team": "Edmonton Oilers",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 2.485884973025934,
+    "away_h2h_odds": 1.6745036417636026,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.4871815761671803,
+        "away": 1.56
+      },
+      "FanDuel": {
+        "home": 2.31,
+        "away": 1.61
+      },
+      "BetMGM": {
+        "home": 2.19,
+        "away": 1.67
+      },
+      "Caesars": {
+        "home": 2.34,
+        "away": 1.59
+      },
+      "PointsBet": {
+        "home": 2.24,
+        "away": 1.64
+      },
+      "Barstool": {
+        "home": 2.28,
+        "away": 1.62
+      },
+      "WynnBET": {
+        "home": 2.33,
+        "away": 1.6
+      },
+      "BetRivers": {
+        "home": 2.39,
+        "away": 1.62
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.05371674991754283,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20251228_091",
+    "date": "2025-12-28",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.7014030050287445,
+    "away_h2h_odds": 2.419528562413309,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.57,
+        "away": 2.33
+      },
+      "FanDuel": {
+        "home": 1.58,
+        "away": 2.32
+      },
+      "BetMGM": {
+        "home": 1.7,
+        "away": 2.09
+      },
+      "Caesars": {
+        "home": 1.61,
+        "away": 2.26
+      },
+      "PointsBet": {
+        "home": 1.62,
+        "away": 2.23
+      },
+      "Barstool": {
+        "home": 1.66,
+        "away": 2.29
+      },
+      "WynnBET": {
+        "home": 1.59,
+        "away": 2.28
+      },
+      "BetRivers": {
+        "home": 1.53,
+        "away": 2.42
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20260101_071",
+    "date": "2026-01-01",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Winnipeg Jets",
+    "home_h2h_odds": 1.7441794286387788,
+    "away_h2h_odds": 2.2467310445235276,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.7,
+        "away": 2.11
+      },
+      "FanDuel": {
+        "home": 1.73,
+        "away": 2.06
+      },
+      "BetMGM": {
+        "home": 1.74,
+        "away": 2.04
+      },
+      "Caesars": {
+        "home": 1.63,
+        "away": 2.23
+      },
+      "PointsBet": {
+        "home": 1.65,
+        "away": 2.18
+      },
+      "Barstool": {
+        "home": 1.74,
+        "away": 2.05
+      },
+      "WynnBET": {
+        "home": 1.7,
+        "away": 2.11
+      },
+      "BetRivers": {
+        "home": 1.67,
+        "away": 2.25
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "BetRivers"
+  },
+  {
+    "match_id": "hist_20260101_076",
+    "date": "2026-01-01",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Boston Bruins",
+    "home_h2h_odds": 1.7469043359016638,
+    "away_h2h_odds": 2.3111530593976863,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.75,
+        "away": 2.08
+      },
+      "FanDuel": {
+        "home": 1.61,
+        "away": 2.31
+      },
+      "BetMGM": {
+        "home": 1.7,
+        "away": 2.2
+      },
+      "Caesars": {
+        "home": 1.74,
+        "away": 2.09
+      },
+      "PointsBet": {
+        "home": 1.73,
+        "away": 2.11
+      },
+      "Barstool": {
+        "home": 1.65,
+        "away": 2.23
+      },
+      "WynnBET": {
+        "home": 1.72,
+        "away": 2.23
+      },
+      "BetRivers": {
+        "home": 1.74,
+        "away": 2.1
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20260104_143",
+    "date": "2026-01-04",
+    "home_team": "Toronto Maple Leafs",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 2.168364169088313,
+    "away_h2h_odds": 2.007732544893352,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 2.17,
+        "away": 1.69
+      },
+      "FanDuel": {
+        "home": 1.74,
+        "away": 2.01
+      },
+      "BetMGM": {
+        "home": 1.88,
+        "away": 1.85
+      },
+      "Caesars": {
+        "home": 1.96,
+        "away": 1.78
+      },
+      "PointsBet": {
+        "home": 1.89,
+        "away": 1.92
+      },
+      "Barstool": {
+        "home": 1.9,
+        "away": 1.83
+      },
+      "WynnBET": {
+        "home": 1.82,
+        "away": 1.91
+      },
+      "BetRivers": {
+        "home": 1.83,
+        "away": 1.9
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 4.2479523255205764,
+    "best_home_book": "DraftKings",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20260109_036",
+    "date": "2026-01-09",
+    "home_team": "New Jersey Devils",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 2.175594898927778,
+    "away_h2h_odds": 1.891195026741235,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.91,
+        "away": 1.89
+      },
+      "FanDuel": {
+        "home": 2.15,
+        "away": 1.76
+      },
+      "BetMGM": {
+        "home": 2.16,
+        "away": 1.74
+      },
+      "Caesars": {
+        "home": 2.0,
+        "away": 1.81
+      },
+      "PointsBet": {
+        "home": 2.18,
+        "away": 1.69
+      },
+      "Barstool": {
+        "home": 1.96,
+        "away": 1.85
+      },
+      "WynnBET": {
+        "home": 1.93,
+        "away": 1.88
+      },
+      "BetRivers": {
+        "home": 1.94,
+        "away": 1.87
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.1725298886432034,
+    "best_home_book": "PointsBet",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20260115_073",
+    "date": "2026-01-15",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Carolina Hurricanes",
+    "home_h2h_odds": 1.8135515671956257,
+    "away_h2h_odds": 2.2141735543055363,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.69,
+        "away": 2.2132487348158376
+      },
+      "FanDuel": {
+        "home": 1.71,
+        "away": 2.05
+      },
+      "BetMGM": {
+        "home": 1.79,
+        "away": 1.99
+      },
+      "Caesars": {
+        "home": 1.73,
+        "away": 2.1
+      },
+      "PointsBet": {
+        "home": 1.71,
+        "away": 2.05
+      },
+      "Barstool": {
+        "home": 1.71,
+        "away": 2.1
+      },
+      "WynnBET": {
+        "home": 1.81,
+        "away": 1.92
+      },
+      "BetRivers": {
+        "home": 1.7,
+        "away": 2.06
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "DraftKings"
+  },
+  {
+    "match_id": "hist_20260121_019",
+    "date": "2026-01-21",
+    "home_team": "Colorado Avalanche",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.7072178303064063,
+    "away_h2h_odds": 2.4549107874670817,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.59,
+        "away": 2.25
+      },
+      "FanDuel": {
+        "home": 1.54,
+        "away": 2.34
+      },
+      "BetMGM": {
+        "home": 1.65,
+        "away": 2.13
+      },
+      "Caesars": {
+        "home": 1.57,
+        "away": 2.29
+      },
+      "PointsBet": {
+        "home": 1.54,
+        "away": 2.4544048704636148
+      },
+      "Barstool": {
+        "home": 1.71,
+        "away": 2.04
+      },
+      "WynnBET": {
+        "home": 1.58,
+        "away": 2.33
+      },
+      "BetRivers": {
+        "home": 1.55,
+        "away": 2.33
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 3,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": true,
+    "arb_roi": 0.6952896716905244,
+    "best_home_book": "Barstool",
+    "best_away_book": "PointsBet"
+  },
+  {
+    "match_id": "hist_20260126_100",
+    "date": "2026-01-26",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Dallas Stars",
+    "home_h2h_odds": 1.7287702223809287,
+    "away_h2h_odds": 2.3783488788044105,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.67,
+        "away": 2.22
+      },
+      "FanDuel": {
+        "home": 1.62,
+        "away": 2.38
+      },
+      "BetMGM": {
+        "home": 1.67,
+        "away": 2.22
+      },
+      "Caesars": {
+        "home": 1.71,
+        "away": 2.16
+      },
+      "PointsBet": {
+        "home": 1.73,
+        "away": 2.12
+      },
+      "Barstool": {
+        "home": 1.68,
+        "away": 2.2
+      },
+      "WynnBET": {
+        "home": 1.65,
+        "away": 2.36
+      },
+      "BetRivers": {
+        "home": 1.69,
+        "away": 2.25
+      }
+    },
+    "home_goals": 3,
+    "away_goals": 4,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.10955657272015973,
+    "best_home_book": "PointsBet",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20260128_004",
+    "date": "2026-01-28",
+    "home_team": "New Jersey Devils",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 1.4914932895611834,
+    "away_h2h_odds": 3.1424805301310674,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.48,
+        "away": 2.73
+      },
+      "FanDuel": {
+        "home": 1.41,
+        "away": 2.91
+      },
+      "BetMGM": {
+        "home": 1.49,
+        "away": 2.62
+      },
+      "Caesars": {
+        "home": 1.36,
+        "away": 3.14
+      },
+      "PointsBet": {
+        "home": 1.38,
+        "away": 3.06
+      },
+      "Barstool": {
+        "home": 1.44,
+        "away": 2.87
+      },
+      "WynnBET": {
+        "home": 1.44,
+        "away": 3.07
+      },
+      "BetRivers": {
+        "home": 1.44,
+        "away": 2.8
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 2,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 1.144046247081043,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20260129_054",
+    "date": "2026-01-29",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Colorado Avalanche",
+    "home_h2h_odds": 1.8856023306579022,
+    "away_h2h_odds": 2.2359058975372204,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.89,
+        "away": 1.98
+      },
+      "FanDuel": {
+        "home": 1.75,
+        "away": 2.17
+      },
+      "BetMGM": {
+        "home": 1.65,
+        "away": 2.24
+      },
+      "Caesars": {
+        "home": 1.76,
+        "away": 2.14
+      },
+      "PointsBet": {
+        "home": 1.83,
+        "away": 1.98
+      },
+      "Barstool": {
+        "home": 1.77,
+        "away": 2.06
+      },
+      "WynnBET": {
+        "home": 1.76,
+        "away": 2.12
+      },
+      "BetRivers": {
+        "home": 1.74,
+        "away": 2.1
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 2.2933629656782584,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20260130_085",
+    "date": "2026-01-30",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 1.6649511723126775,
+    "away_h2h_odds": 2.4223676320561904,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.63,
+        "away": 2.29
+      },
+      "FanDuel": {
+        "home": 1.66,
+        "away": 2.22
+      },
+      "BetMGM": {
+        "home": 1.66,
+        "away": 2.22
+      },
+      "Caesars": {
+        "home": 1.56,
+        "away": 2.42
+      },
+      "PointsBet": {
+        "home": 1.58,
+        "away": 2.38
+      },
+      "Barstool": {
+        "home": 1.63,
+        "away": 2.37
+      },
+      "WynnBET": {
+        "home": 1.59,
+        "away": 2.36
+      },
+      "BetRivers": {
+        "home": 1.6,
+        "away": 2.33
+      }
+    },
+    "home_goals": 4,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "BetMGM",
+    "best_away_book": "Caesars"
+  },
+  {
+    "match_id": "hist_20260203_040",
+    "date": "2026-02-03",
+    "home_team": "New York Rangers",
+    "away_team": "New Jersey Devils",
+    "home_h2h_odds": 1.9136760066412086,
+    "away_h2h_odds": 2.057500844674761,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.91,
+        "away": 1.84
+      },
+      "FanDuel": {
+        "home": 1.84,
+        "away": 1.92
+      },
+      "BetMGM": {
+        "home": 1.73,
+        "away": 2.06
+      },
+      "Caesars": {
+        "home": 1.75,
+        "away": 2.03
+      },
+      "PointsBet": {
+        "home": 1.84,
+        "away": 1.92
+      },
+      "Barstool": {
+        "home": 1.88,
+        "away": 1.88
+      },
+      "WynnBET": {
+        "home": 1.78,
+        "away": 1.98
+      },
+      "BetRivers": {
+        "home": 1.84,
+        "away": 1.92
+      }
+    },
+    "home_goals": 2,
+    "away_goals": 2,
+    "went_to_ot": true,
+    "ot_winner": "home",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "DraftKings",
+    "best_away_book": "BetMGM"
+  },
+  {
+    "match_id": "hist_20260204_116",
+    "date": "2026-02-04",
+    "home_team": "New York Rangers",
+    "away_team": "Florida Panthers",
+    "home_h2h_odds": 2.1270387133975834,
+    "away_h2h_odds": 1.898653964056961,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.99,
+        "away": 1.8
+      },
+      "FanDuel": {
+        "home": 1.88,
+        "away": 1.9
+      },
+      "BetMGM": {
+        "home": 1.94,
+        "away": 1.85
+      },
+      "Caesars": {
+        "home": 1.95,
+        "away": 1.84
+      },
+      "PointsBet": {
+        "home": 2.13,
+        "away": 1.75
+      },
+      "Barstool": {
+        "home": 2.01,
+        "away": 1.79
+      },
+      "WynnBET": {
+        "home": 1.9,
+        "away": 1.88
+      },
+      "BetRivers": {
+        "home": 1.93,
+        "away": 1.86
+      }
+    },
+    "home_goals": 5,
+    "away_goals": 1,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 0.31840004857250914,
+    "best_home_book": "PointsBet",
+    "best_away_book": "FanDuel"
+  },
+  {
+    "match_id": "hist_20260206_142",
+    "date": "2026-02-06",
+    "home_team": "Dallas Stars",
+    "away_team": "Toronto Maple Leafs",
+    "home_h2h_odds": 1.6371940313240303,
+    "away_h2h_odds": 2.542598087230029,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.6,
+        "away": 2.28
+      },
+      "FanDuel": {
+        "home": 1.54,
+        "away": 2.41
+      },
+      "BetMGM": {
+        "home": 1.56,
+        "away": 2.38
+      },
+      "Caesars": {
+        "home": 1.63,
+        "away": 2.22
+      },
+      "PointsBet": {
+        "home": 1.54,
+        "away": 2.41
+      },
+      "Barstool": {
+        "home": 1.49,
+        "away": 2.54
+      },
+      "WynnBET": {
+        "home": 1.64,
+        "away": 2.21
+      },
+      "BetRivers": {
+        "home": 1.61,
+        "away": 2.26
+      }
+    },
+    "home_goals": 1,
+    "away_goals": 1,
+    "went_to_ot": true,
+    "ot_winner": "away",
+    "has_arbitrage": false,
+    "arb_roi": null,
+    "best_home_book": "WynnBET",
+    "best_away_book": "Barstool"
+  },
+  {
+    "match_id": "hist_20260211_016",
+    "date": "2026-02-11",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Edmonton Oilers",
+    "home_h2h_odds": 1.4765396293694804,
+    "away_h2h_odds": 3.4068687146101193,
+    "draw_odds": null,
+    "bookmakers": {
+      "DraftKings": {
+        "home": 1.36,
+        "away": 3.15
+      },
+      "FanDuel": {
+        "home": 1.32,
+        "away": 3.41
+      },
+      "BetMGM": {
+        "home": 1.42,
+        "away": 3.02
+      },
+      "Caesars": {
+        "home": 1.45,
+        "away": 2.77
+      },
+      "PointsBet": {
+        "home": 1.43,
+        "away": 2.83
+      },
+      "Barstool": {
+        "home": 1.48,
+        "away": 2.67
+      },
+      "WynnBET": {
+        "home": 1.36,
+        "away": 3.16
+      },
+      "BetRivers": {
+        "home": 1.41,
+        "away": 2.93
+      }
+    },
+    "home_goals": 0,
+    "away_goals": 3,
+    "went_to_ot": false,
+    "ot_winner": null,
+    "has_arbitrage": true,
+    "arb_roi": 3.0095440489323444,
+    "best_home_book": "Barstool",
+    "best_away_book": "FanDuel"
+  }
+]

@@ -1,0 +1,67 @@
+# Eden MVP Telegram Bot Configuration
+# ===================================
+#
+# To use the Telegram bot, follow these steps:
+# 1. Open Telegram and search for @BotFather
+# 2. Send /newbot and follow the instructions
+# 3. Copy the bot token provided by BotFather
+# 4. Paste it below in the 'bot_token' field
+#
+# For more details, see TELEGRAM_SETUP.md
+
+# Bot Token (REQUIRED)
+# Get this from @BotFather on Telegram
+bot_token: "YOUR_BOT_TOKEN_HERE"
+
+# Polling settings
+polling:
+  enabled: true
+  interval: 1.0  # seconds between polls
+  drop_pending: true  # drop updates received while bot was offline
+
+# Webhook settings (for production deployment)
+webhook:
+  enabled: false
+  url: ""  # Your webhook URL (e.g., https://yourdomain.com/webhook)
+  port: 8443
+  cert_path: ""  # Path to SSL certificate
+  key_path: ""  # Path to SSL key
+
+# Default notification filters
+default_filters:
+  min_roi: 2.0  # Minimum ROI percentage
+  max_hole_risk: 10.0  # Maximum hole probability percentage
+  leagues:
+    - NHL
+    - KHL
+  enabled: true
+
+# Rate limiting
+rate_limiting:
+  messages_per_second: 20  # Telegram's limit is 30
+  user_cooldown: 1.0  # Seconds between messages to same user
+  batch_interval: 5  # Seconds to wait before sending batch notifications
+
+# Notification settings
+notifications:
+  send_on_startup: false  # Send notification when bot starts
+  batch_mode: false  # Send batch summaries instead of individual alerts
+  include_stakes: true  # Include stake recommendations in messages
+  include_reasoning: true  # Include analysis reasoning
+  max_per_hour: 10  # Maximum notifications per hour per user
+
+# Admin settings
+admin:
+  user_ids: []  # List of admin user IDs (for special commands)
+  log_commands: true  # Log all commands
+
+# Messages
+messages:
+  welcome: |
+    🏒 Welcome to Eden MVP!
+    I'll notify you about hockey arbitrage opportunities.
+    Use /help to see available commands.
+  
+  no_opportunities: |
+    🔔 No new opportunities at the moment.
+    You'll be notified when we find something!

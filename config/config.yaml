@@ -1,0 +1,202 @@
+# Eden Analytics Pro Configuration
+# Hockey Arbitrage Betting System
+# Version 3.0.0 Monster Edition - ML Model v5.0 + Injury Tracking
+
+version: "3.0.0"
+
+# Demo Mode - Set to true to use mock data (no API key needed)
+demo_mode: true
+
+# API Configuration
+api:
+  the_odds_api:
+    key: "YOUR_API_KEY_HERE"  # Get your key at https://the-odds-api.com/
+    base_url: "https://api.the-odds-api.com/v4"
+    sport: "icehockey_nhl"
+    regions: "us,eu"
+    markets: "h2h,spreads,totals"
+    odds_format: "decimal"
+
+# Bankroll Settings
+bankroll:
+  total: 1000.0  # Total bankroll in USD
+  min_stake_percent: 2.0  # Minimum stake as % of bankroll
+  max_stake_percent: 10.0  # Maximum stake as % of bankroll
+  default_stake_percent: 4.0  # Default stake as % of bankroll
+
+# Risk Parameters
+risk:
+  max_hole_probability: 0.04  # Maximum acceptable "hole" probability (4%)
+  min_roi: 0.02  # Minimum ROI threshold (2%)
+  kelly_shrink: 0.5  # Kelly criterion reduction factor
+  max_risk_per_bet: 0.05  # Maximum risk per single bet (5% of bankroll)
+
+# OT Prediction Parameters
+ot_model:
+  base_ot_rate: 0.23  # Historical NHL OT rate (~23%)
+  favorite_ot_advantage: 0.55  # Probability favorite wins OT (55%)
+  confidence_threshold: 0.7  # Minimum confidence for predictions
+
+# ML Model Configuration v5.0 Monster Edition
+ml_model:
+  version: "5.0"
+  enabled: true
+  
+  # Feature Engineering
+  features:
+    total_count: 141  # 141 advanced features including injury-based
+    categories:
+      - momentum       # Win/loss streaks, form
+      - matchup        # H2H, division, conference
+      - situational    # Rest, schedule, travel
+      - goalie_advanced  # Goalie performance metrics
+      - team_style     # Offense/defense ratings, pace
+      - market         # Betting odds derived features
+      - injury_impact  # 12 injury-based features (NEW in v5.0)
+      - time_weighted  # Time-decay learning (NEW in v5.0)
+  
+  # Ensemble Models
+  models:
+    ensemble:
+      - random_forest
+      - xgboost
+      - lightgbm
+      - catboost
+      - gradient_boosting
+      - neural_network
+    
+    weights:
+      random_forest: 0.12
+      xgboost: 0.25
+      lightgbm: 0.25
+      catboost: 0.15
+      gradient_boosting: 0.12
+      neural_network: 0.11
+  
+  # Hyperparameter Optimization
+  hyperparameter_optimization:
+    enabled: true
+    method: "bayesian"  # bayesian, grid, random
+    trials: 200
+    timeout_seconds: 3600
+    sampler: "tpe"
+    pruner: "hyperband"
+  
+  # Feature Selection
+  feature_selection:
+    enabled: true
+    method: "importance"  # importance, rfe, mutual_info
+    threshold: 0.01
+    max_features: 100
+  
+  # Probability Calibration
+  calibration:
+    enabled: true
+    method: "isotonic"  # isotonic, sigmoid
+  
+  # Training Configuration
+  training:
+    cross_validation: 5
+    test_size: 0.2
+    random_state: 42
+    use_stacking: true
+    early_stopping: true
+    time_weighted: true  # NEW: Time-decay for recent games
+    
+  # Model Paths (v5.0)
+  paths:
+    model_dir: "models_v5"
+    ensemble_path: "models_v5/ensemble_model.pkl"
+    scaler_path: "models_v5/scaler.pkl"
+    metadata_path: "models_v5/model_info.json"
+    feature_names_path: "models_v5/feature_names.json"
+  
+  # Injury Integration (NEW in v5.0)
+  injury_tracking:
+    enabled: true
+    db_path: "data/nhl_historical.db"
+    high_impact_threshold: 7.0
+    features_count: 12
+  
+  # Performance Metrics (v5.0 Validated)
+  performance:
+    accuracy: 0.8541
+    auc_roc: 0.8913
+    precision: 0.8503
+    recall: 0.8541
+    f1_score: 0.8517
+    cv_accuracy_mean: 0.8541
+    cv_auc_mean: 0.8913
+
+# Database Settings
+database:
+  path: "eden_mvp.db"
+  auto_backup: true
+  backup_interval_days: 7
+
+# Logging Settings
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  log_dir: "logs"
+  max_file_size_mb: 10
+  backup_count: 5
+  console_output: true
+
+# Cache Settings
+cache:
+  enabled: true
+  ttl_minutes: 15  # Time to live for cached data
+  max_entries: 100
+
+# Display Settings
+display:
+  timezone: "UTC"
+  date_format: "%Y-%m-%d %H:%M"
+  currency: "USD"
+  decimal_places: 2
+
+# GUI Settings
+gui:
+  intro_video: "gui/assets/branding/eden_intro_v2.mp4"
+  intro_duration: 10  # seconds
+  intro_skippable: true
+  intro_fallback: "gui/assets/branding/eden_logo_full.png"
+  theme: "dark"  # dark or light
+  language: "ru"  # en or ru - interface language
+  
+# Live Scores Settings
+live_scores:
+  enabled: true
+  auto_refresh: true
+  refresh_interval: 30  # seconds
+  show_finished_games: true
+
+# Bookmakers Settings
+bookmakers:
+  # Primary bookmaker (highest priority)
+  primary: "fonbet"
+  
+  # Fonbet Configuration (Primary Bookmaker)
+  fonbet:
+    enabled: true
+    priority: 1  # Highest priority
+    region: "ru"  # ru or by
+    api_url: "https://line.fonbet.ru/api"
+    cache_duration: 60  # seconds
+    rate_limit: 1  # Minimum seconds between requests
+  
+  # Belarusian Bookmakers (Secondary)
+  belarusian:
+    enabled: true
+    priority: 2
+    sources:
+      - betera      # Betera (betera.by) - Leading Belarusian bookmaker
+      - winline     # Winline (winline.by) - Popular CIS bookmaker
+      - marathonbet # MarafonBet (marathonbet.by) - International
+    cache_duration: 300  # Cache duration in seconds (5 minutes)
+    rate_limit: 3  # Minimum seconds between requests
+
+# Telegram Bot Settings
+telegram:
+  enabled: false  # Set to true to enable Telegram notifications
+  include_caution_bets: true  # Include CAUTION level recommendations

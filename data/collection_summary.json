@@ -1,0 +1,48 @@
+{
+  "collection_date": "2026-02-24T17:48:08.857977",
+  "database_path": "data/nhl_historical.db",
+  "games": {
+    "total": 6804,
+    "by_season": {
+      "20192020": 1330,
+      "20202021": 952,
+      "20212022": 1504,
+      "20222023": 1507,
+      "20232024": 1511
+    }
+  },
+  "overtime": {
+    "ot_games": 1049,
+    "so_games": 457,
+    "total": 1506,
+    "rate": 22.13
+  },
+  "teams": {
+    "count": 35,
+    "stat_records": 162,
+    "h2h_records": 2063
+  },
+  "data_completeness": {
+    "shot_data": 100.0,
+    "goalie_data": 100.0,
+    "faceoff_data": 0.0,
+    "pp_data": 0.0,
+    "hits_data": 0.0
+  },
+  "validation": {
+    "has_sufficient_data": true,
+    "has_good_ot_distribution": true,
+    "ready_for_training": true,
+    "warnings": [
+      "Low completeness for faceoff_data: 0.0%",
+      "Low completeness for pp_data: 0.0%",
+      "Low completeness for hits_data: 0.0%"
+    ]
+  },
+  "ml_training_info": {
+    "target_variable": "went_to_ot OR went_to_so",
+    "positive_class_ratio": 22.13,
+    "recommended_validation_split": 0.2,
+    "suggested_cv_folds": 5
+  }
+}
