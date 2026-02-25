@@ -10,7 +10,7 @@
 # - Playoff/pre-2015 filtering
 # - Monte Carlo 10,000+ simulations
 
-version: "3.1.0"
+version: "3.2.0"
 
 # Demo Mode - Set to true to use mock data (no API key needed)
 demo_mode: true
